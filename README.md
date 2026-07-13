@@ -19,7 +19,7 @@ OpenUniGuide 希望把这些信息整理成统一、可审查、可追踪来源�
 
 状态：**初期建设中**
 
-目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。
+目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。北美地区已加入 Stanford University PhD in Computer Science，作为美国高校博士项目信息的首个示例。
 
 ## 样板间
 
@@ -55,6 +55,14 @@ OpenUniGuide/
     │           └── PhD_Computer_Science.md
     ├── Europe/
     └── North_America/
+        └── USA/
+            └── Stanford_University/
+                ├── _labs/
+                │   ├── README.md
+                │   ├── Stanford_Artificial_Intelligence_Laboratory.md
+                │   ├── Stanford_Natural_Language_Processing_Group.md
+                │   └── Stanford_Statistical_Machine_Learning_Group.md
+                └── PhD_Computer_Science.md
 ```
 
 ## 数据组织规则
