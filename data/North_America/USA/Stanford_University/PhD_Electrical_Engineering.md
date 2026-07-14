@@ -79,7 +79,7 @@
     - **校内实验室文件**： [_labs/Stanford_Photonics_Research_Center.md](_labs/Stanford_Photonics_Research_Center.md)
   - **实验室名称**： Stanford SystemX Alliance
     - **研究方向**： materials and devices、heterogeneous integration、photonic and quantum technologies、data analytics architectures、energy/power systems、IoE、robotics and autonomous systems
-    - **核心教授**： Srabanti Chowdhury、Mark Horowitz、Eric Pop、Jonathan Fan、Joonhee Choi、Subhasish Mitra、Amin Arbabian、Grace Gao 等；以 SystemX Focus Areas 和 Faculty 页面为准
+    - **核心教授**： SystemX Focus Areas 页面当前列出的负责人包括 Paul McIntyre、Srabanti Chowdhury、Mark Horowitz、Eric Pop、Jonathan Fan、Joonhee Choi、Subhasish Mitra、Juan Rivas、Debbie Senesky、Tom Lee、Amin Arbabian、Grace Gao、Monroe Kennedy；完整成员以 SystemX Faculty 页面为准
     - **主页链接**： https://systemx.stanford.edu/
     - **校内实验室文件**： [_labs/Stanford_SystemX_Alliance.md](_labs/Stanford_SystemX_Alliance.md)
   - **实验室名称**： nano@stanford

@@ -22,15 +22,15 @@
 
 ## 核心教授
 
-- **教授 1**： Srabanti Chowdhury
-- **教授 2**： Mark Horowitz
-- **教授 3**： Eric Pop
-- **教授 4**： Jonathan Fan
-- **教授 5**： Joonhee Choi
-- **教授 6**： Subhasish Mitra
-- **教授 7**： Amin Arbabian
-- **教授 8**： Grace Gao
-- **备注**： SystemX focus area leads 会随项目方向调整，完整 faculty 请以 SystemX Faculty 和 Focus Areas 页面为准
+- **教授 1**： Paul McIntyre、Srabanti Chowdhury（Advanced Materials Enabling Novel Devices）
+- **教授 2**： Mark Horowitz（Design Productivity）
+- **教授 3**： Eric Pop（Heterogeneous Integration）
+- **教授 4**： Jonathan Fan、Joonhee Choi（Photonic and Quantum Technologies）
+- **教授 5**： Subhasish Mitra（Computation for Data Analytics）
+- **教授 6**： Juan Rivas、Debbie Senesky（Energy/Power Management Systems）
+- **教授 7**： Tom Lee、Amin Arbabian（Internet of Everything）
+- **教授 8**： Grace Gao、Monroe Kennedy（Robotics and Autonomous Systems）
+- **备注**： 上述为 SystemX Focus Areas 页面当前列出的负责人；focus area leads 会随项目方向调整，完整成员以 SystemX Faculty 和 Focus Areas 页面为准
 
 ## 相关项目
 
