@@ -23,6 +23,7 @@ Lab_Name.md
 - `Stanford_Photonics_Research_Center.md`
 - `Stanford_Statistical_Machine_Learning_Group.md`
 - `Stanford_SystemX_Alliance.md`
+- `Stanford_Wu_Tsai_Neurosciences_Institute.md`
 
 ## 专业文件引用方式
 
