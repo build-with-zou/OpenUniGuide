@@ -15,8 +15,19 @@ Lab_Name.md
 示例：
 
 - `Stanford_Artificial_Intelligence_Laboratory.md`
+<<<<<<< HEAD
 - `Stanford_Natural_Language_Processing_Group.md`
 - `Stanford_Statistical_Machine_Learning_Group.md`
+=======
+- `Stanford_Center_for_Image_Systems_Engineering.md`
+- `Stanford_Compression_Forum.md`
+- `Stanford_Data_Science.md`
+- `Stanford_Natural_Language_Processing_Group.md`
+- `Stanford_Nano_Facilities.md`
+- `Stanford_Photonics_Research_Center.md`
+- `Stanford_Statistical_Machine_Learning_Group.md`
+- `Stanford_SystemX_Alliance.md`
+>>>>>>> 1e863377e77f3ee5496309ddb2e2a42bd24c5717
 
 ## 专业文件引用方式
 

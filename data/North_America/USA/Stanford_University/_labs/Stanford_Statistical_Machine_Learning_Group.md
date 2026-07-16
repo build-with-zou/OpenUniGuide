@@ -24,9 +24,17 @@
 ## 相关项目
 
 - **项目 1**： PhD in Computer Science
+<<<<<<< HEAD
+=======
+- **项目 2**： PhD in Statistics
+>>>>>>> 1e863377e77f3ee5496309ddb2e2a42bd24c5717
 
 ## 信息核实
 
 - **官方主页链接**： https://statsml.stanford.edu/
 - **Tengyu Ma 个人主页**： https://ai.stanford.edu/~tengyuma/
+<<<<<<< HEAD
 - **最后核实日期**： 2026-07-13
+=======
+- **最后核实日期**： 2026-07-14
+>>>>>>> 1e863377e77f3ee5496309ddb2e2a42bd24c5717
