@@ -14,7 +14,7 @@
 ## 🎯 硬性门槛
 
 - **GPA**： Stanford CS FAQ 写明 PhD 申请者通常 GPA 至少 3.6/4.0，但该表述是 typical profile，不是固定最低淘汰线；Stanford Graduate Admissions 的最低学历资格为入学前完成美国 bachelor degree 或被 Stanford 认定等同的国际学位
-- **语言成绩**： 
+- **语言成绩**：
   - **TOEFL**： 需要提交英语测试成绩的申请者，Stanford Graduate Admissions 当前最低分为 TOEFL 90（2026-01-21 前参加的 TOEFL）；2026-01-21 及以后参加的 TOEFL 最低分为 4.5；CS checklist 要求考试成绩在截止日期前送达且在 24 个月有效期内
   - **IELTS**： Stanford Graduate Admissions 当前最低分为 IELTS Academic 7；CS checklist 说明 TOEFL or equivalent English proficiency exam scores may be required
 - **GRE**： 不要求/不考虑；Stanford CS PhD admissions FAQ 明确说明 PhD 申请不需要 GRE，且 GRE scores are not considered
@@ -27,7 +27,7 @@
 
 - **学费/年**： 2026-2027 Stanford Graduate School of Engineering 学费按 quarter 计费：8-10 units 为 US$15,100/quarter，11-18 units 为 US$23,239/quarter，Terminal Graduate Registration 为 US$4,254/quarter；年度金额会随注册 units 和资助安排变化，应以 Stanford Student Services tuition rates 为准
 - **生活费预估**： Stanford Financial Aid 2026-2027 标准非学费预算为 US$49,116（academic year）或 US$61,142（12-month）；该预算基于单人研究生校内居住估算，校外租房可能高 10%-40%
-- **奖学金种类**： 
+- **奖学金种类**：
   - **全奖**： Stanford CS Funding 页面说明，所有 CS PhD students 只要保持 satisfactory degree progress，都会被 guaranteed funding；资助可能来自 fellowship、research assistantship 和 course assistantship
   - **半奖**： 官网未将“半奖”作为 CS PhD 标准资助类别列出；需按具体 fellowship 或院系通知核实
   - **TA**： Stanford CS 使用 Course Assistantship (CA)；PhD 要求完成 teaching requirement，CA 也可能作为资助来源之一，比例和职责以院系/课程安排为准
@@ -45,18 +45,18 @@
 ## 🧪 项目特色与核心课程方向
 
 - **项目定位**： 研究导向博士项目；适合希望在计算机科学研究、学术界或研究型工业岗位发展的申请者
-- **核心必修课**： 
+- **核心必修课**：
   - **课程 1**： PhD 总毕业要求为 135 units；所有课程需达到 Stanford 全校 graduate GPA 要求，CS PhD 要求至少 3.0 GPA
   - **课程 2**： Foundation requirement 覆盖 CS103、CS109、CS111、CS161；可通过 Stanford CS BS/MS 背景或 approved waivers 满足
   - **课程 3**： Breadth requirement 要求从 4 个 breadth areas 中完成 3 门 3-unit 课程，并达到 B+ 或以上
   - **课程 4**： CS300 seminar 和 CS499/research units 属于 PhD program requirements 中列出的持续性研究/研讨训练要求
-- **选修方向**： 
+- **选修方向**：
   - **方向 1**： Formal Foundations
   - **方向 2**： Learning and Modeling
   - **方向 3**： Systems
   - **方向 4**： People and Society
   - **方向 5**： Artificial Intelligence、Human-Computer Interaction、Computer Systems、Theoretical Computer Science 等 Stanford CS faculty research areas
-- **相关实验室**： 
+- **相关实验室**：
   - **实验室名称**： Stanford Artificial Intelligence Laboratory
     - **研究方向**： AI、machine learning、robotics、vision、natural language processing、decision making、social impact of AI 等
     - **核心教授**： Fei-Fei Li、Jure Leskovec、Christopher Manning、Chelsea Finn 等；以 SAIL Faculty 页面为准

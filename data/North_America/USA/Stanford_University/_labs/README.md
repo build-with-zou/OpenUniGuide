@@ -15,8 +15,16 @@ Lab_Name.md
 示例：
 
 - `Stanford_Artificial_Intelligence_Laboratory.md`
+- `Stanford_Center_on_Longevity.md`
+- `Stanford_Center_for_Image_Systems_Engineering.md`
+- `Stanford_Compression_Forum.md`
+- `Stanford_Data_Science.md`
 - `Stanford_Natural_Language_Processing_Group.md`
+- `Stanford_Nano_Facilities.md`
+- `Stanford_Photonics_Research_Center.md`
 - `Stanford_Statistical_Machine_Learning_Group.md`
+- `Stanford_SystemX_Alliance.md`
+- `Stanford_Wu_Tsai_Neurosciences_Institute.md`
 
 ## 专业文件引用方式
 
