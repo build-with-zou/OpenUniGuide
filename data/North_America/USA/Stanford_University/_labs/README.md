@@ -15,6 +15,7 @@ Lab_Name.md
 示例：
 
 - `Stanford_Artificial_Intelligence_Laboratory.md`
+- `Stanford_Center_on_Longevity.md`
 - `Stanford_Center_for_Image_Systems_Engineering.md`
 - `Stanford_Compression_Forum.md`
 - `Stanford_Data_Science.md`
