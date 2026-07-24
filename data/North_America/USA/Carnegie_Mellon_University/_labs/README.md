@@ -14,9 +14,14 @@ Lab_Name.md
 
 示例：
 
+- `Advanced_Chip_Test_Laboratory.md`
 - `Carnegie_Mellon_Database_Group.md`
-- `Principles_of_Programming_Group.md`
+- `Claire_and_John_Bertucci_Nanotechnology_Laboratory.md`
+- `Computer_Architecture_Labs_at_Carnegie_Mellon.md`
 - `CyLab_Security_and_Privacy_Institute.md`
+- `Data_Storage_Systems_Center.md`
+- `Microelectromechanical_Systems_Laboratory.md`
+- `Principles_of_Programming_Group.md`
 
 ## 专业文件引用方式
 

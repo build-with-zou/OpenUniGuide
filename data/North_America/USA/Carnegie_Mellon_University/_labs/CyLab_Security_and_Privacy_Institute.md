@@ -31,7 +31,8 @@
 ## 相关项目
 
 - **项目 1**： PhD in Computer Science
-- **项目 2**： Carnegie Mellon security/privacy 相关博士项目和跨院系研究方向
+- **项目 2**： PhD in Electrical and Computer Engineering
+- **项目 3**： Carnegie Mellon security/privacy 相关博士项目和跨院系研究方向
 
 ## 信息核实
 
@@ -40,4 +41,4 @@
 - **官方 Research 页面**： https://www.cylab.cmu.edu/research/index.html
 - **官方 Directory 页面**： https://www.cylab.cmu.edu/directory/index.html
 - **官方 CSD Security 页面**： https://csd.cmu.edu/research/research-areas/security
-- **最后核实日期**： 2026-07-15
+- **最后核实日期**： 2026-07-24

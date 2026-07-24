@@ -19,7 +19,7 @@ OpenUniGuide 希望把这些信息整理成统一、可审查、可追溯来源�
 
 状态：**初期建设中**
 
-目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。北美地区已加入 Carnegie Mellon University PhD in Computer Science，以及 Stanford University PhD in Computer Science、PhD in Electrical Engineering、PhD in Neuroscience、PhD in Statistics 和 PhD in Psychology，作为美国高校博士项目信息的示例。
+目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。北美地区已加入 Carnegie Mellon University PhD in Computer Science、PhD in Electrical and Computer Engineering（ECE，覆盖 CMU ECE 官方博士项目下的 EE/ECE 研究方向），以及 Stanford University PhD in Computer Science、PhD in Electrical Engineering、PhD in Neuroscience、PhD in Statistics 和 PhD in Psychology，作为美国高校博士项目信息的示例。
 
 ## 样板间
 
@@ -59,10 +59,16 @@ OpenUniGuide/
             ├── Carnegie_Mellon_University/
             │   ├── _labs/
             │   │   ├── README.md
+            │   │   ├── Advanced_Chip_Test_Laboratory.md
             │   │   ├── Carnegie_Mellon_Database_Group.md
+            │   │   ├── Claire_and_John_Bertucci_Nanotechnology_Laboratory.md
+            │   │   ├── Computer_Architecture_Labs_at_Carnegie_Mellon.md
             │   │   ├── CyLab_Security_and_Privacy_Institute.md
+            │   │   ├── Data_Storage_Systems_Center.md
+            │   │   ├── Microelectromechanical_Systems_Laboratory.md
             │   │   └── Principles_of_Programming_Group.md
-            │   └── PhD_Computer_Science.md
+            │   ├── PhD_Computer_Science.md
+            │   └── PhD_Electrical_and_Computer_Engineering.md
             └── Stanford_University/
                 ├── _labs/
                 │   ├── README.md
