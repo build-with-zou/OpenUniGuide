@@ -35,4 +35,4 @@
 - **官方 People 页面**： https://ganguli-gang.stanford.edu/people.html
 - **官方 Publications 页面**： https://ganguli-gang.stanford.edu/pubs.html
 - **Surya Ganguli Stanford Profile**： https://profiles.stanford.edu/surya-ganguli
-- **最后核实日期**： 2026-07-20
+- **最后核实日期**： 2026-07-26

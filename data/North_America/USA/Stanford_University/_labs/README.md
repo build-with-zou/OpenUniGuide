@@ -15,24 +15,22 @@ Lab_Name.md
 示例：
 
 - `Stanford_Artificial_Intelligence_Laboratory.md`
+- `Stanford_Bio_X.md`
+- `Stanford_Brains_in_Silicon_Lab.md`
 - `Stanford_Center_on_Longevity.md`
 - `Stanford_Center_for_Image_Systems_Engineering.md`
-<<<<<<< Updated upstream
-=======
 - `Stanford_CLiMB_Lab.md`
 - `Stanford_Cognitive_Tools_Lab.md`
->>>>>>> Stashed changes
 - `Stanford_Compression_Forum.md`
 - `Stanford_Computation_and_Cognition_Lab.md`
 - `Stanford_Data_Science.md`
+- `Stanford_Mussallem_Center_for_Biodesign.md`
 - `Stanford_Natural_Language_Processing_Group.md`
-<<<<<<< Updated upstream
-=======
 - `Stanford_Neural_Dynamics_and_Computation_Lab.md`
 - `Stanford_NeuroAILab.md`
->>>>>>> Stashed changes
 - `Stanford_Nano_Facilities.md`
 - `Stanford_Photonics_Research_Center.md`
+- `Stanford_Sarafan_ChEM_H.md`
 - `Stanford_Statistical_Machine_Learning_Group.md`
 - `Stanford_SystemX_Alliance.md`
 - `Stanford_Wu_Tsai_Neurosciences_Institute.md`

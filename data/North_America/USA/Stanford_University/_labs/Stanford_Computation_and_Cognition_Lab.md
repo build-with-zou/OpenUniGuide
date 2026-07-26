@@ -36,4 +36,4 @@
 - **官方 People 页面**： https://cocolab.stanford.edu/people
 - **官方 Join 页面**： https://cocolab.stanford.edu/join
 - **Noah Goodman Stanford Profile**： https://profiles.stanford.edu/noah-goodman
-- **最后核实日期**： 2026-07-20
+- **最后核实日期**： 2026-07-26

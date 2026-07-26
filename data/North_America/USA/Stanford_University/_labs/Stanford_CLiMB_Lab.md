@@ -26,10 +26,11 @@
 
 ## 相关项目
 
-- **项目 1**： PhD in Computer Science
-- **项目 2**： PhD in Neuroscience
-- **项目 3**： PhD in Psychology
-- **备注**： CLiMB Lab Join 页面说明实验室正式 housed in Department of Linguistics，且 Cory Shain 可作为 Linguistics、Computer Science、Symbolic Systems 和 Interdepartmental Neurosciences 研究生的 primary advisor；其他院系学生也可能被指导，但可能需要本院系 primary advisor
+- **已确认的 primary-advisor 项目 1**： Linguistics
+- **已确认的 primary-advisor 项目 2**： Computer Science
+- **已确认的 primary-advisor 项目 3**： Symbolic Systems
+- **已确认的 primary-advisor 项目 4**： Interdepartmental Neurosciences
+- **备注**： CLiMB Lab Join 页面说明实验室正式 housed in Department of Linguistics，且 Cory Shain 可作为以上四个项目研究生的 primary advisor；实验室不直接录取学生。Shain 在 Psychology 的任职为 courtesy appointment，官网未把 Psychology 列为已确认的 primary-advisor 项目；其他院系学生可接受指导，但可能需要本院系 primary advisor
 
 ## 信息核实
 
@@ -39,4 +40,4 @@
 - **官方 Join 页面**： https://climblab.org/join/
 - **Stanford Linguistics Psycholinguistics 页面**： https://linguistics.stanford.edu/research/psycholinguistics
 - **Cory Shain Stanford Profile**： https://profiles.stanford.edu/cory-shain
-- **最后核实日期**： 2026-07-20
+- **最后核实日期**： 2026-07-26
