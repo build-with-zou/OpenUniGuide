@@ -2,7 +2,7 @@
 
 # Carnegie Mellon University - Master of Science in Neural Technologies
 
-> **核实口径**： 截至 2026-07-19，本页仅写入 Carnegie Mellon University Neuroscience Institute、Department of Biomedical Engineering、Student Financial Services、Mellon College of Science、CNBC 或官方研究中心主页可支撑的信息；官网未给出硬性数值的字段不写成确定门槛。CMU 官方项目页使用 **M.S. in Neural Technologies (MiNT)**，并列出 MiNT-R、MiNT-AS 和 MiNT-A 三条路径。
+> **核实口径**： 截至 2026-07-26，本页仅写入 Carnegie Mellon University Neuroscience Institute、Department of Biomedical Engineering、Student Financial Services、Mellon College of Science、CNBC 或官方研究中心主页可支撑的信息；官网未给出硬性数值的字段不写成确定门槛。CMU 官方项目页使用 **M.S. in Neural Technologies (MiNT)**，并列出 MiNT-R、MiNT-AS 和 MiNT-A 三条路径。2026-01-20 的项目发布新闻仍保留 MiNT-R 147 units、2026-02-15 deadline 等早期数据；本页采用当前项目页和 Graduate Application Process 页面更新后的 153 units 与 January 31 口径。
 
 ## 🧭 基础信息
 
@@ -86,4 +86,4 @@
 - **官方 CMU SFS 2026-2027 Dietrich College Cost of Attendance 页面**： https://www.cmu.edu/sfs/tuition/graduate/dc.html
 - **官方 Mellon College of Science MiNT 新闻稿**： https://www.cmu.edu/mcs/news-events/2026/0120-graduate-program-neuroscience-technology
 - **官方 Center for the Neural Basis of Cognition 页面**： https://www.cnbc.cmu.edu/
-- **最后核实日期**： 2026-07-19
+- **最后核实日期**： 2026-07-26
