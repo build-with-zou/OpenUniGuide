@@ -19,11 +19,7 @@ OpenUniGuide 希望把这些信息整理成统一、可审查、可追溯来源�
 
 状态：**初期建设中**
 
-<<<<<<< Updated upstream
-目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。北美地区已加入 Carnegie Mellon University PhD in Computer Science，以及 Stanford University PhD in Computer Science、PhD in Electrical Engineering、PhD in Neuroscience、PhD in Statistics 和 PhD in Psychology，作为美国高校博士项目信息的示例。
-=======
-目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。亚洲地区已补充 National University of Singapore PhD in Electrical Engineering、PhD in Electrical and Computer Engineering（ECE，覆盖 NUS ECE 官方 PhD/M.Eng 研究型博士入口下的 EE/ECE 研究方向）。北美地区已加入 Carnegie Mellon University PhD in Computer Science、PhD in Electrical and Computer Engineering（ECE，覆盖 CMU ECE 官方博士项目下的 EE/ECE 研究方向），以及 Stanford University PhD in Computer Science、PhD in Electrical Engineering、PhD in Neuroscience、PhD in Statistics 和 PhD in Psychology，作为美国高校博士项目信息的示例。
->>>>>>> Stashed changes
+目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。亚洲地区已补充 National University of Singapore Doctor of Philosophy（Electrical and Computer Engineering）；该页面按 NUS ECE 官方单一 PhD 研究学位入口记录 EE/ECE 研究方向，不自行拆成两个项目。北美地区已加入 Carnegie Mellon University M.S. in Neural Technologies、PhD in Computer Science、PhD in Electrical and Computer Engineering（ECE，覆盖 CMU ECE 官方博士项目下的 EE/ECE 研究方向），以及 Stanford University PhD in Bioengineering、PhD in Computer Science、PhD in Electrical Engineering、PhD in Neuroscience、PhD in Statistics 和 PhD in Psychology，作为美国高校项目信息的示例。
 
 ## 样板间
 
@@ -61,32 +57,53 @@ OpenUniGuide/
     │           │   └── VERSE_Lab.md
     │           ├── MSc_Computer_Science.md
     │           ├── PhD_Computer_Science.md
-    │           ├── PhD_Electrical_and_Computer_Engineering.md
-    │           └── PhD_Electrical_Engineering.md
+    │           └── PhD_Electrical_and_Computer_Engineering.md
     ├── Europe/
     └── North_America/
         └── USA/
             ├── Carnegie_Mellon_University/
             │   ├── _labs/
             │   │   ├── README.md
+            │   │   ├── Advanced_Chip_Test_Laboratory.md
             │   │   ├── Carnegie_Mellon_Database_Group.md
+            │   │   ├── Carnegie_Mellon_Neuroscience_Institute.md
+            │   │   ├── Center_for_the_Neural_Basis_of_Cognition.md
+            │   │   ├── Claire_and_John_Bertucci_Nanotechnology_Laboratory.md
+            │   │   ├── Computer_Architecture_Labs_at_Carnegie_Mellon.md
             │   │   ├── CyLab_Security_and_Privacy_Institute.md
+            │   │   ├── Data_Storage_Systems_Center.md
+            │   │   ├── Microelectromechanical_Systems_Laboratory.md
             │   │   └── Principles_of_Programming_Group.md
-            │   └── PhD_Computer_Science.md
+            │   ├── MSc_Neural_Technologies.md
+            │   ├── PhD_Computer_Science.md
+            │   └── PhD_Electrical_and_Computer_Engineering.md
             └── Stanford_University/
                 ├── _labs/
                 │   ├── README.md
                 │   ├── Stanford_Artificial_Intelligence_Laboratory.md
+                │   ├── Stanford_Bio_X.md
+                │   ├── Stanford_Brains_in_Silicon_Lab.md
                 │   ├── Stanford_Center_on_Longevity.md
                 │   ├── Stanford_Center_for_Image_Systems_Engineering.md
+                │   ├── Stanford_CLiMB_Lab.md
+                │   ├── Stanford_Cognitive_Tools_Lab.md
                 │   ├── Stanford_Compression_Forum.md
+                │   ├── Stanford_Computation_and_Cognition_Lab.md
                 │   ├── Stanford_Data_Science.md
+                │   ├── Stanford_Interactive_Perception_and_Robot_Learning_Lab.md
+                │   ├── Stanford_Mussallem_Center_for_Biodesign.md
                 │   ├── Stanford_Natural_Language_Processing_Group.md
+                │   ├── Stanford_Neural_Dynamics_and_Computation_Lab.md
+                │   ├── Stanford_NeuroAILab.md
                 │   ├── Stanford_Nano_Facilities.md
                 │   ├── Stanford_Photonics_Research_Center.md
+                │   ├── Stanford_Robotics_and_Embodied_AI_Lab.md
+                │   ├── Stanford_Sarafan_ChEM_H.md
                 │   ├── Stanford_Statistical_Machine_Learning_Group.md
                 │   ├── Stanford_SystemX_Alliance.md
+                │   ├── Stanford_Vision_and_Learning_Lab.md
                 │   └── Stanford_Wu_Tsai_Neurosciences_Institute.md
+                ├── PhD_Bioengineering.md
                 ├── PhD_Computer_Science.md
                 ├── PhD_Electrical_Engineering.md
                 ├── PhD_Neuroscience.md

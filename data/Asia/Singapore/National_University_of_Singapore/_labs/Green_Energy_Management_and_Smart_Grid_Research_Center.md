@@ -28,11 +28,10 @@
 
 ## 相关项目
 
-- **项目 1**： PhD in Electrical Engineering
-- **项目 2**： PhD in Electrical and Computer Engineering
+- **项目 1**： Doctor of Philosophy (PhD), Department of Electrical and Computer Engineering
 
 ## 信息核实
 
 - **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
 - **官方 ECE research centers 页面**： https://cde.nus.edu.sg/ece/graduate/research-based-programmes/phd-m-eng/
-- **最后核实日期**： 2026-07-25
+- **最后核实日期**： 2026-07-26

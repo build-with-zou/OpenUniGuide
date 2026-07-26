@@ -29,9 +29,11 @@
 ## 相关项目
 
 - **项目 1**： PhD in Electrical Engineering
+- **项目 2**： PhD in Bioengineering
 
 ## 信息核实
 
 - **官方主页链接**： https://scien.stanford.edu/
 - **官方 Faculty Members 页面**： https://scien.stanford.edu/index.php/about/faculty-members/
-- **最后核实日期**： 2026-07-14
+- **官方 Bioengineering research areas 页面**： https://bioengineering.stanford.edu/research-impact/our-research-areas
+- **最后核实日期**： 2026-07-18

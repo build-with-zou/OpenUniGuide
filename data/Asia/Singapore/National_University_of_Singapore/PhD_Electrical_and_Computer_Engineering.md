@@ -1,13 +1,13 @@
 <!-- 文件路径：data/Asia/Singapore/National_University_of_Singapore/PhD_Electrical_and_Computer_Engineering.md -->
 
-# National University of Singapore - PhD in Electrical and Computer Engineering
+# National University of Singapore - Doctor of Philosophy (Electrical and Computer Engineering)
 
-> **核实口径**： 截至 2026-07-25，本页仅写入 NUS College of Design and Engineering、Department of Electrical and Computer Engineering、NUS Graduate School 或官方研究中心主页可支撑的信息；官网未给出数值的字段不写成确定门槛。NUS ECE 当前研究型博士官方入口为 PhD/M.Eng，本文件按 OpenUniGuide 专业命名规则记录 Electrical and Computer Engineering 口径信息。
+> **核实口径**： 截至 2026-07-26，本页仅写入 NUS College of Design and Engineering、Department of Electrical and Computer Engineering、NUS Graduate School、ETS 或官方研究中心主页可支撑的信息；官网未给出数值的字段不写成确定门槛。NUS ECE 官方将 Doctor of Philosophy 列为一个研究学位，PhD/M.Eng 共用研究型项目入口；本页按院系与研究方向记录 Electrical and Computer Engineering 口径，不将 EE 和 ECE 自行拆成两个博士项目。
 
 ## 🧭 基础信息
 
 - **院系**： Department of Electrical and Computer Engineering (ECE), College of Design and Engineering, National University of Singapore
-- **学位类型**： 研究型博士；官方项目入口为 PhD/M.Eng，申请提交到希望攻读的 department，ECE 方向通过 proposed thesis advisor、thesis title/area of research 和研究领域确定
+- **学位类型**： Doctor of Philosophy（研究型博士）；ECE 官方只列一个 PhD 研究学位，PhD/M.Eng 共用项目入口，申请提交到希望攻读的 department，具体 ECE 方向通过 proposed thesis advisor、thesis title/area of research 和研究领域确定
 - **学制**： ECE 官方页面说明 PhD candidature 通常为 2-5 年；CDE 博士里程碑按 4 年左右进度展示 coursework、seminar、QE、thesis submission 和 oral defence
 - **申请截止日期**： 通常有 January 和 August 两个入学季；截至核实日，January 2027 intake 国际申请者及在新加坡申请奖学金 Round 1 截止为 2026-08-01，在新加坡申请 admission only 或奖学金 Round 2 截止为 2026-09-01；August 2026 intake 截止日期已过，后续轮次需重新核对官网
 
@@ -15,7 +15,7 @@
 
 - **GPA**： CDE 研究型博士录取会综合评估 relevant bachelor's 或 master's degree 中的 good GPA；ECE PhD 页面说明 PhD admission 通常需要 master's degree，并需证明有能力在拟研究方向开展研究；申请 EngD/PhD 或奖学金者通常应有至少 Second Class Upper Honours 或同等水平的 bachelor's degree
 - **语言成绩**：
-  - **TOEFL**： CDE 研究型项目当前最低要求为 IBT 85；适用于本科授课语言不是英语且未满足豁免条件的申请者
+  - **TOEFL**： CDE 研究型项目当前最低要求为 TOEFL iBT 5.0（1-6 新量表）；适用于本科授课语言不是英语且未满足豁免条件的申请者。ETS 自 2026-01-21 起启用 1-6 量表，并在过渡期成绩单同时显示可比的 0-120 overall score；较早考试成绩如何适用应向 NUS 核实，不能把旧量表 85 与当前 5.0 混写
   - **IELTS**： Academic 最低 6.0；适用于本科授课语言不是英语且未满足豁免条件的申请者
 - **GRE**： 可选/鼓励提交；CDE 将 GRE 列为 optional，但说明强量化、语言和分析能力证据会显著增强申请；GRE 成绩有效期为 5 年
 
@@ -90,6 +90,7 @@
 ## ✅ 信息核实
 
 - **官方项目链接（必填，无链接不合并）**： https://cde.nus.edu.sg/ece/graduate/research-based-programmes/phd-m-eng/
+- **官方 ECE 学位说明链接**： https://cde.nus.edu.sg/ece/about-us/welcome-message/
 - **官方 CDE Graduate Programmes by Research 链接**： https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/
 - **官方申请周期链接**： https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/
 - **官方录取要求链接**： https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/
@@ -99,4 +100,5 @@
 - **官方奖学金链接**： https://cde.nus.edu.sg/graduate/scholarship-opportunities/
 - **官方 ECE research areas/centers 链接**： https://cde.nus.edu.sg/ece/graduate/research-based-programmes/phd-m-eng/
 - **官方 ECE academic staff 链接**： https://cde.nus.edu.sg/ece/about-us/people/academic-staff/
-- **最后核实日期**： 2026-07-25
+- **ETS TOEFL 新量表说明链接**： https://www.ets.org/toefl/institutions/ibt/score-scale-update.html
+- **最后核实日期**： 2026-07-26

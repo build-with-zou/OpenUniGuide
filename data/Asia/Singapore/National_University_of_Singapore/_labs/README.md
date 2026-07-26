@@ -16,15 +16,18 @@ Lab_Name.md
 
 - `Center_for_Intelligent_Sensor_and_MEMS.md`
 - `Green_Energy_Management_and_Smart_Grid_Research_Center.md`
+- `Optical_Science_and_Engineering_Center.md`
+- `Satellite_Technology_And_Research_Centre.md`
 - `NUS_Artificial_Intelligence_Laboratory.md`
 - `NUS_Data_System_Research_Group.md`
+- `VERSE_Lab.md`
 
 ## 专业文件引用方式
 
 同一学校目录下的专业文件可以使用相对路径引用实验室文件：
 
 ```markdown
-- **相关实验室**： Center for Intelligent Sensor and MEMS（专业文件中填写 `_labs/Center_for_Intelligent_Sensor_and_MEMS.md`）
+- **相关实验室**： [Center for Intelligent Sensor and MEMS](_labs/Center_for_Intelligent_Sensor_and_MEMS.md)
 ```
 
 ## 建议字段
