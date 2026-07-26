@@ -16,6 +16,8 @@ Lab_Name.md
 
 - `MIT_Computer_Science_and_Artificial_Intelligence_Laboratory.md`
 - `MIT_Laboratory_for_Information_and_Decision_Systems.md`
+- `MIT_McGovern_Institute_for_Brain_Research.md`
+- `MIT_Picower_Institute_for_Learning_and_Memory.md`
 - `MIT_Research_Laboratory_of_Electronics.md`
 
 ## 招生关系说明
