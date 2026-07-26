@@ -25,9 +25,11 @@
 ## 相关项目
 
 - **项目 1**： PhD in Electrical Engineering
+- **项目 2**： PhD in Bioengineering
 
 ## 信息核实
 
 - **官方主页链接**： https://nanolabs.stanford.edu/
 - **官方说明**： nano@stanford brings together Stanford Nanofabrication Facility (SNF) and Stanford Nano Shared Facilities (SNSF)
-- **最后核实日期**： 2026-07-14
+- **官方 Bioengineering research centers/facilities 页面**： https://bioengineering.stanford.edu/research-impact/research-centers-facilities
+- **最后核实日期**： 2026-07-18
