@@ -35,4 +35,4 @@
 - **官方 Research 页面**： https://real.stanford.edu/research.html
 - **Shuran Song 个人主页**： https://shurans.github.io/index.html
 - **Shuran Song Stanford Profiles 页面**： https://profiles.stanford.edu/shuran-song
-- **最后核实日期**： 2026-07-22
+- **最后核实日期**： 2026-07-26

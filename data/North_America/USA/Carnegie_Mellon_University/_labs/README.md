@@ -15,6 +15,8 @@ Lab_Name.md
 示例：
 
 - `Carnegie_Mellon_Database_Group.md`
+- `Carnegie_Mellon_Neuroscience_Institute.md`
+- `Center_for_the_Neural_Basis_of_Cognition.md`
 - `Principles_of_Programming_Group.md`
 - `CyLab_Security_and_Privacy_Institute.md`
 

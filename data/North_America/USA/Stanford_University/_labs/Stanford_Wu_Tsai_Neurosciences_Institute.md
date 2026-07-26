@@ -27,7 +27,8 @@
 ## 相关项目
 
 - **直接相关项目**： PhD in Neuroscience (Stanford Neurosciences Interdepartmental Program)
-- **跨项目说明**： 研究院覆盖多个学院和学科，但官网未把 Wu Tsai Neuro affiliate 身份写成 Computer Science、Electrical Engineering、Statistics 等项目的招生或导师资格；相关申请者需分别核对目标博士项目和导师页面
+- **相关项目 2**： PhD in Bioengineering（neuroengineering、brain-machine interfaces、neural technologies 等方向）
+- **跨项目说明**： 研究院覆盖多个学院和学科，但官网未把 Wu Tsai Neuro affiliate 身份写成 Computer Science、Electrical Engineering、Statistics、Bioengineering 等项目的自动招生或导师资格；相关申请者需分别核对目标博士项目和导师页面
 
 ## 信息核实
 
@@ -38,4 +39,5 @@
 - **官方 Faculty Affiliates 页面**： https://neuroscience.stanford.edu/about/community/faculty-affiliates
 - **官方 Community Labs 页面**： https://neuroscience.stanford.edu/shared-resources/about-neurosciences-community-labs
 - **官方 Neurosciences PhD Program 页面**： https://med.stanford.edu/neurogradprogram.html
-- **最后核实日期**： 2026-07-16
+- **官方 Bioengineering research areas 页面**： https://bioengineering.stanford.edu/research-impact/our-research-areas
+- **最后核实日期**： 2026-07-18

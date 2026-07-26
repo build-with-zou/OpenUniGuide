@@ -38,4 +38,4 @@
 - **官方 People 页面**： https://svl.stanford.edu/people/
 - **官方 Research 页面**： https://svl.stanford.edu/research/
 - **Fei-Fei Li Stanford Profiles 页面**： https://profiles.stanford.edu/fei-fei-li
-- **最后核实日期**： 2026-07-22
+- **最后核实日期**： 2026-07-26

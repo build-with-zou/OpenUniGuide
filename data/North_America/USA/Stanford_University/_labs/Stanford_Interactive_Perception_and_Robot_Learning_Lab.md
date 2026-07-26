@@ -33,4 +33,4 @@
 - **官方主页链接**： https://iprl.stanford.edu/
 - **官方 People/Contact 页面**： https://iprl.stanford.edu/
 - **Jeannette Bohg 个人主页**： https://web.stanford.edu/~bohg/
-- **最后核实日期**： 2026-07-22
+- **最后核实日期**： 2026-07-26
