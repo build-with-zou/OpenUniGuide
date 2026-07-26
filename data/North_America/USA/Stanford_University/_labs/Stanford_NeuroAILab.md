@@ -36,4 +36,4 @@
 - **官方 Research 页面**： https://neuroailab.stanford.edu/research.html
 - **官方 People 页面**： https://neuroailab.stanford.edu/people.html
 - **Dan Yamins Stanford Profile**： https://profiles.stanford.edu/daniel-yamins
-- **最后核实日期**： 2026-07-20
+- **最后核实日期**： 2026-07-26

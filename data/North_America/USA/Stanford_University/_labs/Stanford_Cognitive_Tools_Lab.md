@@ -25,9 +25,9 @@
 
 ## 相关项目
 
-- **项目 1**： PhD in Psychology
-- **项目 2**： PhD in Computer Science
-- **备注**： 实验室 prospective 页面说明 PhD 申请主要通过 Stanford Psychology PhD Program；其他交叉方向需以目标项目和导师资格为准
+- **直接招生路径**： PhD in Psychology；实验室 prospective 页面要求 prospective PhD students 通过 Stanford Psychology PhD Program 申请
+- **研究相关项目**： PhD in Computer Science；Judith Fan 在 Computer Science 的任职为 courtesy appointment，这一关联本身不证明其可作为 CS PhD 的主导师
+- **备注**： 研究交叉、课程指导或 courtesy appointment 不等同于博士招生资格；申请者需以目标项目和导师当年公告为准
 
 ## 信息核实
 
@@ -37,4 +37,4 @@
 - **官方 People 页面**： https://cogtoolslab.github.io/people
 - **官方 Prospective Lab Members 页面**： https://cogtoolslab.github.io/prospective.html
 - **Judith Fan Stanford Profile**： https://profiles.stanford.edu/judith-fan
-- **最后核实日期**： 2026-07-20
+- **最后核实日期**： 2026-07-26

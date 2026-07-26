@@ -25,10 +25,11 @@
 
 ## 相关项目
 
-- **项目 1**： PhD in Electrical Engineering
-- **项目 2**： PhD in Neuroscience
-- **项目 3**： PhD in Computer Science
-- **备注**： 实验室方向跨 EE、bioengineering、CS 和 neuroscience；申请者需分别核对目标项目的导师资格、轮转规则和招生安排
+- **项目 1**： PhD in Bioengineering
+- **项目 2**： PhD in Electrical Engineering
+- **项目 3**： PhD in Neuroscience
+- **项目 4**： PhD in Computer Science
+- **备注**： 这里列出的是本仓库已收录、且与实验室研究或 PI 院系任职有关的项目，不代表完整招生清单或自动具备导师资格。Boahen 的 Stanford 官方档案列其为 Bioengineering 与 Electrical Engineering 教授、Computer Science courtesy appointment；申请者仍需分别核对目标项目的导师资格、轮转规则和当年招生安排
 
 ## 信息核实
 
@@ -38,4 +39,4 @@
 - **官方 Projects 页面**： https://web.stanford.edu/group/brainsinsilicon/projects/
 - **官方 Positions 页面**： https://web.stanford.edu/group/brainsinsilicon/positions/
 - **Kwabena Boahen Stanford Profile**： https://profiles.stanford.edu/kwabena-boahen
-- **最后核实日期**： 2026-07-20
+- **最后核实日期**： 2026-07-26
