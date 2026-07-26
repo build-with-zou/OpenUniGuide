@@ -19,7 +19,7 @@ OpenUniGuide 希望把这些信息整理成统一、可审查、可追溯来源�
 
 状态：**初期建设中**
 
-目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。北美地区已加入 Carnegie Mellon University M.S. in Neural Technologies、PhD in Computer Science、PhD in Electrical and Computer Engineering（ECE，覆盖 CMU ECE 官方博士项目下的 EE/ECE 研究方向），以及 Stanford University PhD in Bioengineering、PhD in Computer Science、PhD in Electrical Engineering、PhD in Neuroscience、PhD in Statistics 和 PhD in Psychology，作为美国高校项目信息的示例。
+目前项目包含基础目录结构、贡献模板、新加坡国立大学计算机相关硕士/博士项目的样板间文件，以及学校级 `_labs` 实验室目录。NUS CS 两个专业文件用于示范：如何区分官网事实、保守备注、选填扩展和实验室相对路径引用。亚洲地区已补充 National University of Singapore Doctor of Philosophy（Electrical and Computer Engineering）；该页面按 NUS ECE 官方单一 PhD 研究学位入口记录 EE/ECE 研究方向，不自行拆成两个项目。北美地区已加入 Carnegie Mellon University M.S. in Neural Technologies、PhD in Computer Science、PhD in Electrical and Computer Engineering（ECE，覆盖 CMU ECE 官方博士项目下的 EE/ECE 研究方向），以及 Stanford University PhD in Bioengineering、PhD in Computer Science、PhD in Electrical Engineering、PhD in Neuroscience、PhD in Statistics 和 PhD in Psychology，作为美国高校项目信息的示例。
 
 ## 样板间
 
@@ -48,11 +48,16 @@ OpenUniGuide/
     │       └── National_University_of_Singapore/
     │           ├── _labs/
     │           │   ├── README.md
+    │           │   ├── Center_for_Intelligent_Sensor_and_MEMS.md
+    │           │   ├── Green_Energy_Management_and_Smart_Grid_Research_Center.md
     │           │   ├── NUS_Artificial_Intelligence_Laboratory.md
     │           │   ├── NUS_Data_System_Research_Group.md
+    │           │   ├── Optical_Science_and_Engineering_Center.md
+    │           │   ├── Satellite_Technology_And_Research_Centre.md
     │           │   └── VERSE_Lab.md
     │           ├── MSc_Computer_Science.md
-    │           └── PhD_Computer_Science.md
+    │           ├── PhD_Computer_Science.md
+    │           └── PhD_Electrical_and_Computer_Engineering.md
     ├── Europe/
     └── North_America/
         └── USA/
