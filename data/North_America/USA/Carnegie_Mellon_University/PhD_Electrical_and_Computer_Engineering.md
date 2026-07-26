@@ -2,14 +2,14 @@
 
 # Carnegie Mellon University - PhD in Electrical and Computer Engineering
 
-> **核实口径**： 截至 2026-07-24，本页仅写入 Carnegie Mellon University Electrical and Computer Engineering、College of Engineering、Student Financial Services 或官方实验室/研究中心主页可支撑的信息；官网未给出硬性数值的字段不写成确定门槛。CMU ECE 当前列出的官方博士项目名称为 PhD in ECE；未单列 standalone PhD in Electrical Engineering，EE 方向申请通常归入该 ECE 博士项目。
+> **核实口径**： 截至 2026-07-26，本页仅写入 Carnegie Mellon University Electrical and Computer Engineering、College of Engineering、Student Financial Services 或官方实验室/研究中心主页可支撑的信息；官网未给出硬性数值的字段不写成确定门槛。CMU ECE 当前列出的官方博士项目名称为 PhD in ECE；未单列 standalone PhD in Electrical Engineering，EE 方向申请通常归入该 ECE 博士项目。
 
 ## 🧭 基础信息
 
 - **院系**： Department of Electrical and Computer Engineering (ECE), College of Engineering, Carnegie Mellon University
 - **学位类型**： 研究型博士；官方项目名称为 PhD in ECE / Ph.D. in Electrical and Computer Engineering
 - **学制**： ECE requirements 页面说明博士学位通常约 4-6 年完成，取决于学生以 BS 或 MS 背景入学；成功通过 PhD Qualifying Examination 后完成博士要求的最长时间为 6 年。学位至少要求 bachelor's degree 之后 144 units，并要求至少 1 个 calendar year 的 full-time graduate study in residence
-- **申请截止日期**： Spring 2027 入学申请开放日为 2026-08-01，提交截止日为 2026-08-31 11:59 PM ET；Fall 2027 入学申请开放日为 2026-10-01，PhD early review deadline 为 2026-12-01 11:59 PM ET，PhD submission deadline 为 2026-12-15 11:59 PM ET。Pittsburgh/Portugal Dual Degree 不参加 spring admissions cycle
+- **申请截止日期**： 截至 2026-07-26，ECE Graduate Application Deadlines 页面当前列出：Spring application 为 August 1 开放、August 31 截止；Fall application 为 October 1 开放、December 1 PhD early review deadline、December 15 PhD submission deadline；所有截止时间均为 11:59 PM ET。该页面正文未标注对应 intake 年份，因此本页不把年份推算写成官网事实；申请者须在提交前到申请系统确认具体轮次。Pittsburgh/Portugal Dual Degree 不参加 spring admissions cycle
 
 ## 🎯 硬性门槛
 
@@ -18,8 +18,8 @@
   - **Duolingo English Test**： 适用于需要提交英语能力证明的申请者；最低 overall 115，且 Literacy 105、Comprehension 115、Production 90、Conversation 95
   - **TOEFL**： 最低 overall 86，且 IBT Reading 22、Listening 22、Speaking 20、Writing 22；ECE 当前不接受 TOEFL MyBest scores
   - **IELTS**： ECE admissions committee 更偏好 DET 或 TOEFL；如无法参加 DET/TOEFL 可提交 IELTS，最低 overall 7，且 Reading 6.5、Listening 6.5、Speaking 6、Writing 6
-  - **豁免**： 如申请者将在入学前从美国大学毕业，或是 CMU student/alum，或拥有 United Kingdom / Canadian citizenship，英语能力证明可不要求
-- **GRE**： Fall 2026 和 Spring 2027 admissions cycles 为 optional；未提交 GRE score report 的申请者会与提交者同等审理。ECE FAQ 说明 at-home ETS tests 可接受；如提交，需在 online application 中自报并由考试机构送分
+  - **豁免**： 如申请者将在入学前从美国大学毕业，或是 CMU student/alum，或拥有 citizenship of the United Kingdom or Canada，英语能力证明可不要求
+- **GRE**： ECE FAQ 仅明确 Fall 2026 和 Spring 2027 admissions cycles 为 optional；未提交 GRE score report 的申请者会与提交者同等审理。Fall 2027 GRE policy 官网尚未确认，申请前必须重新核对，不能由前述轮次外推。ECE FAQ 说明 at-home ETS tests 可接受；如提交，需在 online application 中自报并由考试机构送分
 
 ---
 
@@ -42,7 +42,7 @@
 - **推荐信 (RL)**： 需要 3 封；ECE FAQ 说明 online application 要求输入 3 位推荐人，推荐信必须在线完成；guidelines 也强烈建议提供 3 封推荐信
 - **研究计划 (Research Proposal)**： 申请材料清单未单列独立 mandatory research proposal；PhD 申请应在 SOP、CV 和研究经历中说明拟研究方向、技术基础、已有项目和与 ECE faculty/research groups 的匹配
 - **简历 (CV)**： 需要；ECE FAQ 将 resume 列为完整申请材料的一部分。Guidelines 建议 CV/resume 包含联系方式、本科和研究生教育经历及 GPA、ranking（如有）、相关课程与成绩、研究/项目、实习、技术与非技术技能、开源或公开项目、论文和专利等
-- **其他**： Online application、nonrefundable application fee、transcripts、GRE score report（Fall 2026 和 Spring 2027 optional，如提交）、DET/TOEFL/IELTS score report（如适用）。申请者可在 ECE Department 内申请多个项目，并在 online application 中按偏好排序
+- **其他**： Online application、nonrefundable application fee、transcripts、GRE score report（官网仅确认 Fall 2026 和 Spring 2027 optional；其他轮次须重新核对）、DET/TOEFL/IELTS score report（如适用）。申请者可在 ECE Department 内申请多个项目，并在 online application 中按偏好排序
 
 ## 🧪 项目特色与核心课程方向
 
@@ -114,4 +114,4 @@
 - **官方 Research Labs 页面**： https://www.ece.cmu.edu/research/labs.html
 - **官方 Research Centers 页面**： https://www.ece.cmu.edu/research/centers.html
 - **官方 College of Engineering graduate tuition 页面**： https://www.cmu.edu/sfs/tuition/graduate/cit.html
-- **最后核实日期**： 2026-07-24
+- **最后核实日期**： 2026-07-26

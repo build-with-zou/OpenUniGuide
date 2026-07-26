@@ -32,4 +32,4 @@
 - **官方主页链接**： https://www.actl.ece.cmu.edu/
 - **官方 People 页面**： https://www.actl.ece.cmu.edu/people.html
 - **官方 Projects 页面**： https://www.actl.ece.cmu.edu/projects.html
-- **最后核实日期**： 2026-07-24
+- **最后核实日期**： 2026-07-26

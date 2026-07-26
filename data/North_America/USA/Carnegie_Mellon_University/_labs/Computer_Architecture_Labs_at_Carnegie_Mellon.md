@@ -37,4 +37,4 @@
 
 - **官方主页链接**： https://research.ece.cmu.edu/~calcm/doku.php
 - **官方 ECE Research Labs 页面**： https://www.ece.cmu.edu/research/labs.html
-- **最后核实日期**： 2026-07-24
+- **最后核实日期**： 2026-07-26

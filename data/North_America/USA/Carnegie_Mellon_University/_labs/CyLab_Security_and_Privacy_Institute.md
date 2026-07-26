@@ -41,4 +41,4 @@
 - **官方 Research 页面**： https://www.cylab.cmu.edu/research/index.html
 - **官方 Directory 页面**： https://www.cylab.cmu.edu/directory/index.html
 - **官方 CSD Security 页面**： https://csd.cmu.edu/research/research-areas/security
-- **最后核实日期**： 2026-07-24
+- **最后核实日期**： 2026-07-26

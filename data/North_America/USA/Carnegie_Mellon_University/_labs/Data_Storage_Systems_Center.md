@@ -36,4 +36,4 @@
 - **官方 People 页面**： https://www.dssc.ece.cmu.edu/people/index.html
 - **官方 Research 页面**： https://www.dssc.ece.cmu.edu/research/index.html
 - **官方 ECE Research Centers 页面**： https://www.ece.cmu.edu/research/centers.html
-- **最后核实日期**： 2026-07-24
+- **最后核实日期**： 2026-07-26

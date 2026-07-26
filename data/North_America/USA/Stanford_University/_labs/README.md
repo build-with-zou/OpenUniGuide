@@ -15,15 +15,27 @@ Lab_Name.md
 示例：
 
 - `Stanford_Artificial_Intelligence_Laboratory.md`
+- `Stanford_Bio_X.md`
+- `Stanford_Brains_in_Silicon_Lab.md`
 - `Stanford_Center_on_Longevity.md`
 - `Stanford_Center_for_Image_Systems_Engineering.md`
+- `Stanford_CLiMB_Lab.md`
+- `Stanford_Cognitive_Tools_Lab.md`
 - `Stanford_Compression_Forum.md`
+- `Stanford_Computation_and_Cognition_Lab.md`
 - `Stanford_Data_Science.md`
+- `Stanford_Interactive_Perception_and_Robot_Learning_Lab.md`
+- `Stanford_Mussallem_Center_for_Biodesign.md`
 - `Stanford_Natural_Language_Processing_Group.md`
+- `Stanford_Neural_Dynamics_and_Computation_Lab.md`
+- `Stanford_NeuroAILab.md`
 - `Stanford_Nano_Facilities.md`
 - `Stanford_Photonics_Research_Center.md`
+- `Stanford_Robotics_and_Embodied_AI_Lab.md`
+- `Stanford_Sarafan_ChEM_H.md`
 - `Stanford_Statistical_Machine_Learning_Group.md`
 - `Stanford_SystemX_Alliance.md`
+- `Stanford_Vision_and_Learning_Lab.md`
 - `Stanford_Wu_Tsai_Neurosciences_Institute.md`
 
 ## 专业文件引用方式

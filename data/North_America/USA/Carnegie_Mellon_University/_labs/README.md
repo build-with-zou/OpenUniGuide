@@ -16,6 +16,8 @@ Lab_Name.md
 
 - `Advanced_Chip_Test_Laboratory.md`
 - `Carnegie_Mellon_Database_Group.md`
+- `Carnegie_Mellon_Neuroscience_Institute.md`
+- `Center_for_the_Neural_Basis_of_Cognition.md`
 - `Claire_and_John_Bertucci_Nanotechnology_Laboratory.md`
 - `Computer_Architecture_Labs_at_Carnegie_Mellon.md`
 - `CyLab_Security_and_Privacy_Institute.md`

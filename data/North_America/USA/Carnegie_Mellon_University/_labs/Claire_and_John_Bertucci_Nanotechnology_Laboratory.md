@@ -33,4 +33,4 @@
 - **官方 About 页面**： https://nanofab.ece.cmu.edu/about.html
 - **官方 Staff 页面**： https://nanofab.ece.cmu.edu/staff.html
 - **官方 ECE Research Centers 页面**： https://www.ece.cmu.edu/research/centers.html
-- **最后核实日期**： 2026-07-24
+- **最后核实日期**： 2026-07-26
