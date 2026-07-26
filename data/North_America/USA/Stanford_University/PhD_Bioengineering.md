@@ -2,23 +2,23 @@
 
 # Stanford University - PhD in Bioengineering
 
-> **核实口径**：截至 2026-07-18，本页仅写入 Stanford Bioengineering、Stanford Graduate Admissions、Stanford Student Services、Stanford Bulletin 或官方研究中心主页可支撑的信息；官网未给出硬性数值的字段不写成确定门槛。需要特别注意：Bioengineering 部门申请页当前仍显示 Fall 2026 入学轮次信息，而 Stanford Graduate Admissions 总页已说明 2027 entry 申请预计 2026-09 中旬开放，因此下一轮 Bioengineering 截止日期需等部门页面更新后再次核实。
+> **核实口径**：截至 2026-07-26，本页仅写入 Stanford Bioengineering、Stanford Graduate Admissions、Stanford Student Services、Stanford Bulletin 或官方研究中心主页可支撑的信息；官网未给出硬性数值的字段不写成确定门槛。Bioengineering 部门 How to Apply 页面仍停留在已结束的 Fall 2026 轮次，因此当前轮次的截止日期与 GRE 政策以 Stanford Graduate Admissions 的 Explore Graduate Programs 目录为准。
 
 ## 🧭 基础信息
 
 - **院系**：Department of Bioengineering, Stanford University；项目由 School of Engineering 和 School of Medicine 共同支持
 - **学位类型**：研究型博士；官方项目名称为 PhD in Bioengineering
 - **学制**：Bioengineering PhD 通常平均 5-6 年完成；学生第一年通常有机会在 3 个不同实验室轮转后选择 dissertation advisor；博士项目最低要求 135 units，并包括课程、实验室轮转、research advisor 确认、qualifying oral examination、candidacy、teaching requirement、University Oral Exam 和 dissertation
-- **申请截止日期**：Bioengineering 每年仅接受一次申请，Fall quarter 入学。部门当前公开页面仍列出 Fall 2026 entry 申请截止日期为 2025-12-01；截至 2026-07-18，该轮已结束。Stanford Graduate Admissions 总页说明 2027 entry 在线申请预计 2026-09 中旬开放；Bioengineering 2027 entry 具体 deadline 需待部门页面更新后核实
+- **申请截止日期**：Bioengineering 每年仅接受一次申请，Fall quarter 入学。Stanford Graduate Admissions 的 Explore Graduate Programs 目录当前列出 Bioengineering (PhD) 的 Autumn 2027-2028 申请截止日期为 2026-12-01；全校 2027 entry 在线申请预计于 2026-09 中旬开放
 
 ## 🎯 硬性门槛
 
 - **学历资格**：申请者需在入学前取得 U.S. bachelor's degree 或 Stanford 认可的 international equivalent
-- **GPA**：Bioengineering Graduate Admission 页面明确说明不要求 minimum GPA；Stanford Bulletin 同时说明通常期待 engineering/science/math GPA 至少 3.5，但本文件按部门招生页口径不将其写成硬性 cut-off
+- **GPA**：Bioengineering Graduate Admission 页面明确说明申请不设 minimum GPA；官网未公布 Bioengineering PhD 的推荐申请 GPA。Stanford Bulletin 所列 3.0 GPA 是入学后的博士课程与学位进度要求，不是申请门槛
 - **语言成绩**：
-  - **TOEFL**：未满足 Stanford 英语成绩豁免条件的申请者需提交英语能力测试成绩。Stanford Graduate Admissions 当前最低分为 TOEFL 90（2026-01-21 前参加的 TOEFL）或 TOEFL iBT 4.5（2026-01-21 及以后参加的 TOEFL）；低于 109/5.5 的入学者通常需参加 English Placement Test
-  - **IELTS**：Stanford Graduate Admissions 当前最低分为 IELTS Academic 7；低于 8 的入学者通常需参加 English Placement Test
-- **GRE**：不要求；Bioengineering Graduate Admission 页面说明不要求 GRE scores，How to Apply 页面也说明 Fall 2026 entry 的 Bioengineering PhD/MS 不要求 general 或 subject GRE
+  - **TOEFL**：未满足 Stanford 英语成绩豁免条件的申请者需提交英语能力测试成绩。Stanford Graduate Admissions 当前最低分为 TOEFL 90（2026-01-21 前参加的 TOEFL）或 TOEFL iBT 4.5（2026-01-21 及以后参加的 TOEFL）；申请时低于 109/5.5 的入学者必须参加 English Placement Test，官网明确说明无例外
+  - **IELTS**：Stanford Graduate Admissions 当前最低分为 IELTS Academic 7；申请时低于 8 的入学者必须参加 English Placement Test，官网明确说明无例外
+- **GRE**：Stanford Graduate Admissions 的 Explore Graduate Programs 目录将 Bioengineering (PhD) 的 Autumn 2027-2028 General Test 与 Subject Test 均列为 Not Considered；Bioengineering Graduate Admission 页面也说明不要求 GRE scores
 
 ---
 
@@ -106,7 +106,8 @@
 - **官方 Bioengineering faculty-run labs 页面**：https://bioengineering.stanford.edu/research-impact/faculty-run-labs
 - **官方 Bioengineering research centers/facilities 页面**：https://bioengineering.stanford.edu/research-impact/research-centers-facilities
 - **官方 Bioengineering faculty 页面**：https://bioengineering.stanford.edu/people/faculty
-- **官方 Graduate Admissions starting your application 页面**：https://gradadmissions.stanford.edu/applying/starting-your-application
+- **官方 Graduate Admissions Explore Graduate Programs 页面**：https://applygrad.stanford.edu/portal/explore-programs?cmd=grad-program-list
+- **官方 Graduate Admissions How to Apply 页面**：https://gradadmissions.stanford.edu/apply
 - **官方 Graduate Admissions eligibility 页面**：https://gradadmissions.stanford.edu/apply/eligibility
 - **官方 Graduate Admissions test scores 页面**：https://gradadmissions.stanford.edu/apply/test-scores
 - **官方 2026-2027 Graduate and Professional Tuition Rates 页面**：https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates
@@ -118,4 +119,4 @@
 - **官方 nano@stanford 页面**：https://nanolabs.stanford.edu/
 - **官方 Knight-Hennessy Scholars admission 页面**：https://knight-hennessy.stanford.edu/admission
 - **官方 Knight-Hennessy Scholars funding 页面**：https://knight-hennessy.stanford.edu/program-overview/funding
-- **最后核实日期**：2026-07-18
+- **最后核实日期**：2026-07-26
