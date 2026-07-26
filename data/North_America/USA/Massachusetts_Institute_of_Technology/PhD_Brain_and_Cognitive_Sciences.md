@@ -9,7 +9,7 @@
 - **院系**：Department of Brain and Cognitive Sciences (BCS)，隶属 MIT School of Science
 - **学位类型**：研究型 Doctor of Philosophy (PhD)。项目没有面向外部申请者的 terminal master's；已注册的 BCS 博士生可选择在培养途中取得 Master of Science (SM)，通常须在第 4 年结束前完成
 - **学制**：项目目标完成时间为 5–6 年；若超过第 6 年，需由 thesis committee 说明进展并接受项目审查
-- **申请开放与截止日期**：MIT OGE 当前项目页列出的常规开放日为 9 月 1 日，截止时间为 12 月 1 日 11:59 PM（美国东部时间），仅秋季入学。具体年份与英语豁免申请日期应以当年 GradApply 和 OGE 页面为准
+- **申请截止日期**：MIT OGE 当前项目页列出的常规开放日为 9 月 1 日，截止时间为 12 月 1 日 11:59 PM（美国东部时间），仅秋季入学。具体年份与英语豁免申请日期应以当年 GradApply 和 OGE 页面为准
 
 ## 🎯 硬性门槛
 
@@ -20,6 +20,7 @@
   - **IELTS Academic**：最低 7.0
   - **Duolingo English Test**：最低 135
   - **豁免条件**：MIT OGE 当前项目页列出的情形包括：目前就读于以英语授课的学校、已在英语国家居住 4 年及以上，或已取得以英语为主要教学语言的院校学位。豁免材料和截止日期应按申请季页面重新核实
+  - **页面口径说明**：MIT OGE 当前项目目录明确列出 TOEFL、IELTS 和 Duolingo English Test；BCS How to Apply 页面同时列出 TOEFL、IELTS 和 Cambridge English，且保留了上一申请季内容。申请者应优先核对当年 OGE 项目目录与 GradApply 实际要求
 - **GRE**：不接受，也不纳入审核
 
 ---
@@ -67,7 +68,7 @@
     - **主页链接**：https://mcgovern.mit.edu/
     - **校内文件**：[_labs/MIT_McGovern_Institute_for_Brain_Research.md](_labs/MIT_McGovern_Institute_for_Brain_Research.md)
   - **名称**：Picower Institute for Learning and Memory
-    - **研究方向**：从 genes、molecules、cells 和 circuits 到 behavior、cognition、brain disorders 与 new technologies 的多尺度研究
+    - **研究方向**：从 genes、molecules、cells 和 synapses 延伸到 circuits、systems、learning、memory、cognition、behavior 及 brain disorders 的多尺度研究
     - **负责人**：Myriam Heiman（Director，自 2026-07-01 起）
     - **招生关系**：研究所本身不是独立学位招生单位；申请者需通过 BCS 或其他 MIT academic program 入学，并核实目标研究人员的院系与导师资格
     - **主页链接**：https://picower.mit.edu/
