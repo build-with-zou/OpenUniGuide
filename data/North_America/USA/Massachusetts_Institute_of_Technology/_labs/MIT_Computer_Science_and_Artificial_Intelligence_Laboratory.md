@@ -45,4 +45,4 @@
 - **官方 About 页面**：https://www.csail.mit.edu/about
 - **官方 Leadership 页面**：https://www.csail.mit.edu/about/leadership
 - **官方 Admissions 页面**：https://www.csail.mit.edu/admissions/admissions
-- **最后核实日期**：2026-07-26
+- **最后核实日期**：2026-07-27

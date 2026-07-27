@@ -2,7 +2,7 @@
 
 # Massachusetts Institute of Technology - PhD in Electrical Engineering and Computer Science
 
-> **核实口径**：截至 2026-07-26，本页仅写入 MIT Department of Electrical Engineering and Computer Science、MIT Office of Graduate Education、MIT Student Financial Services 以及 MIT 官方研究机构页面可直接支撑的信息。MIT EECS 目前只接受博士项目申请；本页不把博士途中取得的 SM 或仅面向符合条件的 MIT EECS 本科生的 MEng 写成独立对外招生项目。
+> **核实口径**：截至 2026-07-27，本页仅写入 MIT Department of Electrical Engineering and Computer Science、MIT Office of Graduate Education、MIT Student Financial Services、ETS 以及 MIT 官方研究机构页面可直接支撑的信息。MIT EECS 目前只接受博士项目申请；本页不把博士途中取得的 SM 或仅面向符合条件的 MIT EECS 本科生的 MEng 写成独立对外招生项目。
 
 ## 🧭 基础信息
 
@@ -16,7 +16,7 @@
 - **学历资格**：入学注册前取得 bachelor's degree，并具备很强的 mathematics、physics、computer science 或 engineering 背景；不要求申请时已有 master's degree
 - **GPA**：EECS 官方 FAQ 未给出固定最低 GPA 或平均录取 GPA；不得把非官方统计写成硬性门槛
 - **语言成绩**：
-  - **TOEFL**：如不满足豁免条件，最低 600（paper-based）、250（computer-based）或 100（internet-based）
+  - **TOEFL**：MIT OGE 当前说明仅接受 TOEFL iBT；EECS FAQ 当前仍将最低分写为 iBT 100，并同时保留已属旧考试形态的 paper-based 600、computer-based 250。ETS 已于 2026-01-21 启用 1–6 新量表，过渡期成绩单同时显示可比的 0–120 overall score；截至核实日，EECS 尚未在公开 FAQ 中给出独立的 1–6 最低分。申请者应以当年 GradApply/EECS 通知为准，不自行把 100 换算成未获 MIT 确认的新量表门槛
   - **IELTS**：如不满足豁免条件，最低 7.0
   - **Duolingo English Test**：如不满足豁免条件，最低 130
   - **豁免条件**：EECS FAQ 列出三类自动豁免情形，包括小学至中学主要教学语言为英语、在美国或其他英语为官方语言的国家学习/工作满 3 年、或取得以英语为主要教学语言的受认可机构学位；申请者需提供相应证明
@@ -95,7 +95,9 @@
 - **官方 Road to the PhD**：https://www.eecs.mit.edu/academics/graduate-programs/materials-and-forms-for-graduate-students/phd-academic-progress-i/
 - **官方 EECS Graduate Funding**：https://www.eecs.mit.edu/academics/graduate-programs/funding/
 - **官方 MIT OGE 项目与日期目录**：https://oge.mit.edu/graduate-admissions/programs/fields-of-study/
+- **官方 MIT OGE Standardized Tests**：https://oge.mit.edu/graduate-admissions/applications/standardized-tests/
 - **官方 MIT SFS Graduate Cost of Attendance**：https://sfs.mit.edu/graduate-students/cost-of-attendance/grad-cost-of-attendance/
+- **ETS TOEFL 新量表说明**：https://www.ets.org/toefl/institutions/ibt/score-scale-update.html
 - **官方 EECS Leadership**：https://www.eecs.mit.edu/leadership/
 - **官方 EECS Electrical Engineering research 页面**：https://www.eecs.mit.edu/research/electrical-engineering/
 - **官方 EECS Computer Science research 页面**：https://www.eecs.mit.edu/research/computer-science/
@@ -103,4 +105,4 @@
 - **官方 CSAIL 页面**：https://www.csail.mit.edu/
 - **官方 LIDS 页面**：https://lids.mit.edu/
 - **官方 RLE 页面**：https://www.rle.mit.edu/
-- **最后核实日期**：2026-07-26
+- **最后核实日期**：2026-07-27
