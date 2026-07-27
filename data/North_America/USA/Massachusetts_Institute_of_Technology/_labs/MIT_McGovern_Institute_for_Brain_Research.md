@@ -41,4 +41,4 @@
 - **官方 About 页面**：https://mcgovern.mit.edu/about/
 - **官方 Researchers 页面**：https://mcgovern.mit.edu/researchers/
 - **官方 Administration 页面**：https://mcgovern.mit.edu/about/our-administration/
-- **最后核实日期**：2026-07-26
+- **最后核实日期**：2026-07-27

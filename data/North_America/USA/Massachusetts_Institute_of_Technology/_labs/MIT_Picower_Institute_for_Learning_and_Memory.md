@@ -39,4 +39,5 @@
 - **官方 About 页面**：https://picower.mit.edu/about
 - **官方 Research Topics 页面**：https://picower.mit.edu/research-topics
 - **官方 Faculty 页面**：https://picower.mit.edu/faculty
-- **最后核实日期**：2026-07-26
+- **官方 Director 公告**：https://picower.mit.edu/news/myriam-heiman-named-director-picower-institute-learning-and-memory
+- **最后核实日期**：2026-07-27

@@ -2,7 +2,7 @@
 
 # Massachusetts Institute of Technology - PhD in Brain and Cognitive Sciences
 
-> **核实口径**：截至 2026-07-26，本页仅写入 MIT Department of Brain and Cognitive Sciences、MIT Office of Graduate Education、MIT Student Financial Services 及 MIT 官方研究机构页面可直接支撑的信息。官网个别页面仍保留上一申请季日期，涉及 Fall 2027 的年份化安排应在申请系统开放后再次核对。
+> **核实口径**：截至 2026-07-27，本页仅写入 MIT Department of Brain and Cognitive Sciences、MIT Office of Graduate Education、MIT Student Financial Services、ETS 及 MIT 官方研究机构页面可直接支撑的信息。官网个别页面仍保留上一申请季日期，涉及 Fall 2027 的年份化安排应在申请系统开放后再次核对。
 
 ## 🧭 基础信息
 
@@ -16,11 +16,11 @@
 - **学历资格**：可接受任何本科专业背景；官方强调申请者应有优秀的学术记录，尤其是 mathematics 和 sciences 方面的表现
 - **GPA**：官方页面未公布固定最低 GPA；不得把第三方统计写成硬性门槛
 - **语言成绩**：
-  - **TOEFL iBT**：最低 90
+  - **TOEFL iBT**：MIT OGE 当前页面将最低分写为 90（0–120 量表）。ETS 已于 2026-01-21 启用 1–6 新量表，过渡期成绩单同时显示可比的 0–120 overall score；截至核实日，BCS/OGE 尚未在公开项目页给出独立的 1–6 最低分。申请者应按当年 GradApply/OGE 指示提交，不自行换算出 MIT 未确认的新量表门槛
   - **IELTS Academic**：最低 7.0
   - **Duolingo English Test**：最低 135
-  - **豁免条件**：MIT OGE 当前项目页列出的情形包括：目前就读于以英语授课的学校、已在英语国家居住 4 年及以上，或已取得以英语为主要教学语言的院校学位。豁免材料和截止日期应按申请季页面重新核实
-  - **页面口径说明**：MIT OGE 当前项目目录明确列出 TOEFL、IELTS 和 Duolingo English Test；BCS How to Apply 页面同时列出 TOEFL、IELTS 和 Cambridge English，且保留了上一申请季内容。申请者应优先核对当年 OGE 项目目录与 GradApply 实际要求
+  - **豁免条件**：MIT OGE 当前项目页允许符合以下情形的国际申请者申请 department ELP waiver：目前就读于以英语授课的学校、已在英语国家居住 4 年及以上，或已取得以英语为主要教学语言的院校学位；这不是自动豁免，需按要求提交证明。页面仍显示 2025-12-01 的上一轮 waiver 截止日期，Fall 2027 日期须重新核实
+  - **页面口径说明**：MIT OGE 当前项目目录明确列出 TOEFL、IELTS 和 Duolingo English Test，并列出上述 waiver policy；BCS How to Apply 页面同时列出 TOEFL、IELTS 和 Cambridge English，且称母语非英语者需提供英语能力证明。两页当前存在口径差异，申请者应以当年 OGE 项目目录、GradApply 实际字段及 BCS 书面通知为准
 - **GRE**：不接受，也不纳入审核
 
 ---
@@ -87,12 +87,15 @@
 
 - **官方项目链接（必填，无链接不合并）**：https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program
 - **官方 MIT OGE 项目与招生要求**：https://oge.mit.edu/programs/brain-and-cognitive-sciences/
+- **官方 MIT OGE Standardized Tests**：https://oge.mit.edu/graduate-admissions/applications/standardized-tests/
 - **官方 How to Apply 页面**：https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program/how-apply
 - **官方 Program Details**：https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program/program-details
 - **官方 Research 页面**：https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program/research
 - **官方 Areas of Research**：https://bcs.mit.edu/areas-research
 - **官方 BCS About 页面**：https://bcs.mit.edu/about-bcs
 - **官方 MIT SFS Graduate Cost of Attendance**：https://sfs.mit.edu/graduate-students/cost-of-attendance/grad-cost-of-attendance/
+- **ETS TOEFL 新量表说明**：https://www.ets.org/toefl/institutions/ibt/score-scale-update.html
 - **官方 McGovern Institute 页面**：https://mcgovern.mit.edu/
 - **官方 Picower Institute 页面**：https://picower.mit.edu/
-- **最后核实日期**：2026-07-26
+- **官方 Picower Institute 负责人公告**：https://picower.mit.edu/news/myriam-heiman-named-director-picower-institute-learning-and-memory
+- **最后核实日期**：2026-07-27
