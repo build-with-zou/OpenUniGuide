@@ -16,11 +16,13 @@ Lab_Name.md
 
 - `MIT_Computer_Science_and_Artificial_Intelligence_Laboratory.md`
 - `MIT_Laboratory_for_Information_and_Decision_Systems.md`
+- `MIT_McGovern_Institute_for_Brain_Research.md`
+- `MIT_Picower_Institute_for_Learning_and_Memory.md`
 - `MIT_Research_Laboratory_of_Electronics.md`
 
 ## 招生关系说明
 
-MIT 的实验室和研究中心通常不等同于学位招生单位。申请者需通过 EECS 或其他 academic department/program 申请；研究机构成员身份也不自动代表某位研究人员具备对应项目的博士论文指导资格。
+MIT 的实验室和研究中心通常不等同于学位招生单位。申请者需通过 BCS、EECS 或其他相关 academic department/program 申请；研究机构成员身份也不自动代表某位研究人员具备对应项目的博士论文指导资格。
 
 ## 专业文件引用方式
 
