@@ -37,4 +37,4 @@
 
 - **官方主页链接**：https://lids.mit.edu/
 - **官方 About 页面**：https://lids.mit.edu/about-lids
-- **最后核实日期**：2026-07-26
+- **最后核实日期**：2026-07-27

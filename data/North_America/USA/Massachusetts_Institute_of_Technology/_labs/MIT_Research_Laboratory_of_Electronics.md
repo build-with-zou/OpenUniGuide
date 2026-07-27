@@ -40,4 +40,4 @@
 - **官方主页链接**：https://www.rle.mit.edu/
 - **官方 About 页面**：https://www.rle.mit.edu/about/
 - **官方 Research 页面**：https://www.rle.mit.edu/research/
-- **最后核实日期**：2026-07-26
+- **最后核实日期**：2026-07-27
