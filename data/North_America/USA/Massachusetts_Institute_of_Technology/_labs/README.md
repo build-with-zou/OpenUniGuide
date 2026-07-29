@@ -14,6 +14,7 @@ Lab_Name.md
 
 当前文件：
 
+- `MIT_Center_for_Computational_Science_and_Engineering.md`
 - `MIT_Computer_Science_and_Artificial_Intelligence_Laboratory.md`
 - `MIT_Laboratory_for_Information_and_Decision_Systems.md`
 - `MIT_McGovern_Institute_for_Brain_Research.md`
@@ -23,7 +24,7 @@ Lab_Name.md
 
 ## 招生关系说明
 
-MIT 的实验室和研究中心通常不等同于学位招生单位。申请者需通过 BCS、EECS 或其他相关 academic department/program 申请；研究机构成员身份也不自动代表某位研究人员具备对应项目的博士论文指导资格。
+MIT 的实验室和研究中心通常不等同于学位招生单位。申请者需通过 BCS、EECS 或其他相关 academic department/program 申请；研究机构成员身份也不自动代表某位研究人员具备对应项目的博士论文指导资格。CCSE 是一个例外：它既是跨学科研究中心，也是 CSE 学位项目的 academic home/联合管理单位，但 affiliated faculty 身份仍不自动代表招生、导师资格或资助承诺。
 
 ## 专业文件引用方式
 
