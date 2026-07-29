@@ -2,7 +2,7 @@
 
 # Massachusetts Institute of Technology - PhD in Electrical Engineering and Computer Science
 
-> **核实口径**：截至 2026-07-27，本页仅写入 MIT Department of Electrical Engineering and Computer Science、MIT Office of Graduate Education、MIT Student Financial Services、ETS 以及 MIT 官方研究机构页面可直接支撑的信息。MIT EECS 目前只接受博士项目申请；本页不把博士途中取得的 SM 或仅面向符合条件的 MIT EECS 本科生的 MEng 写成独立对外招生项目。
+> **核实口径**：截至 2026-07-29，本页仅写入 MIT Department of Electrical Engineering and Computer Science、MIT Office of Graduate Education、MIT Student Financial Services、ETS 以及 MIT 官方研究机构页面可直接支撑的信息。MIT EECS 目前只接受博士项目申请；本页不把博士途中取得的 SM 或仅面向符合条件的 MIT EECS 本科生的 MEng 写成独立对外招生项目。Electrical Engineering、Computer Science、Artificial Intelligence + Decision-making 是同一博士项目内部用于组织研究与培养的 Graduate Research Areas，不是三个独立申请项目。
 
 ## 🧭 基础信息
 
@@ -50,14 +50,41 @@
 - **项目定位**：MIT EECS 博士项目覆盖 Electrical Engineering、Computer Science、Artificial Intelligence + Decision-making 三个相互交叉的主要研究领域，以原创研究、技术广度与深度、研究沟通、教学和博士论文为核心
 - **核心培养要求**：
   - **要求 1：Technical Qualification Evaluation (TQE)**：提交由 4 门课程构成的计划，覆盖 3 个不同 groups（其中一个 group 选 2 门、另两个 groups 各选 1 门）；成绩要求至少 3 个 A 和 1 个 B，建议第 2 学期开始申请并在 5 个学期内完成
+    - **当前 9 个 TQE groups**：Systems in CS、Theoretical Computer Science、Artificial Intelligence、System Science and Control Engineering、Circuits and Electronic Systems、Information Science and Communication、Biological Engineering、Electromagnetics、Physical Science and Engineering
+    - **选课边界**：EECS graduate students 可从全部 9 个 groups 中选课，不被入学时的 Graduate Research Area 锁定；但只能使用当期 EECS-wide TQE grid 中的课程，不能自行替换。grid 和开课情况每学期可能调整，应使用届时最新版本
   - **要求 2：SM milestone**：SM proposal 与 TQE 并行推进；SM technical thesis 建议在第 4 学期末完成。该 SM 是 EECS 博士培养的一部分，不是对外独立申请的 terminal master's
   - **要求 3：Research Qualifying Examination (RQE)**：在 TQE 后进行，建议第 5 学期申请，用于评估独立开展研究并以书面和口头形式沟通成果的能力
   - **要求 4：PhD proposal and committee**：建议第 8 学期末完成博士论文提案并组建 thesis committee；之后按要求召开 committee meetings，最终完成论文和答辩
   - **要求 5：并行要求**：完成至少 18 units、由两门课程构成且与研究主题不同的 coherent minor；完成 professional perspective requirement 和 teaching requirement
-- **研究方向**：
-  - **方向 1：Electrical Engineering**：包括 circuits、devices、communications、signal processing、photonics、quantum、energy、bioelectronics 等方向，具体以 EECS research 页面和 faculty interests guide 为准
-  - **方向 2：Computer Science**：包括 algorithms and theory、architecture、systems、security、programming languages、human-computer interaction、graphics 等方向
-  - **方向 3：Artificial Intelligence + Decision-making**：包括 machine learning、statistics、causal inference、optimization、game theory、robotics、computer vision、natural language and speech、systems and control 等方向
+- **研究方向与官方 research communities**：
+  - **Graduate Research Area 1：Electrical Engineering**
+    - **Biological and Medical Devices and Systems**：biomedical sensors and electronics、nano/micro technologies、imaging、disease modeling
+    - **Electronic, Magnetic, Optical and Quantum Materials and Devices**：graphene 与其他 2D materials、quantum devices、MEMS/NEMS、新型计算材料与物理载体
+    - **Energy**：energy transduction、storage、power electronics、generation 与 large-scale energy-system control
+    - **Integrated Circuits and Systems**：面向 computation、communications 和 sensing 的 analog、digital、mixed-signal circuits 与 systems
+    - **Nanoscale Materials, Devices and Systems**：利用 nanoscale materials 和 devices 构建新型电子、光子、生物与能源系统
+    - **Robotics**：robotic hardware 与 sensing、control、perception、manipulation algorithms；该方向跨越 EE、CS 和 AI+D
+    - **交叉主题说明**：EECS Electrical Engineering research 页面还展示 communications、computer architecture、optics/photonics、quantum、signal processing、systems/networking、control 等跨板块主题；它们不应被误写成新的独立学位或固定 track
+  - **Graduate Research Area 2：Computer Science**
+    - **Algorithms and Theory**：algorithms、complexity、cryptography、distributed computation、computational geometry、quantum computation 等理论基础
+    - **Computational Biology**：genomics、biological networks、computational modeling 与 machine learning for biology；官网同时将 bioinformatics 纳入 CS
+    - **Computer Architecture**：processors、accelerators、IoT、servers/datacenters、hardware/software co-design 与 EDA
+    - **Graphics and Vision**：image/video generation and analysis、photography、human perception、touch、geometry 与 visual computing
+    - **Human-Computer Interaction**：people-computation interface、新型交互系统及其设计、实现和社会影响
+    - **Programming Languages and Software Engineering**：languages、program analysis/synthesis、verification、developer tools 与 software methodology
+    - **Robotics**：从机器人系统与硬件到 sensing、planning、perception、control 和 manipulation
+    - **Security and Cryptography**：cryptography、hardware/OS/language security、cloud、blockchain、privacy、ML 与 IoT security
+    - **Systems and Networking**：distributed systems、databases、operating systems、wireless/networking，以及性能、可靠性和可管理性
+  - **Graduate Research Area 3：Artificial Intelligence + Decision-making**
+    - **Artificial Intelligence and Machine Learning**：ML theory、optimization、statistical learning、causal analysis、deep learning、reinforcement learning、symbolic reasoning、ML systems 与 AI hardware
+    - **Computational Biology**：面向 genomics、imaging、clinical text、drug discovery 与 personalized care 的算法和模型
+    - **Graphics and Vision**：computer vision、image/video understanding and generation、3D/geometry、perception 与 visual computing
+    - **ML and Social Science**：AI 与 economics、social psychology、law、public policy 和 opportunity access 的交叉研究
+    - **Natural Language and Speech Processing**：speech recognition、language modeling、information extraction、translation 与 embodied language use
+    - **Optimization and Game Theory**：large-scale optimization、networked decision-making、multi-agent systems 与 economic/game-theoretic methods
+    - **Robotics**：embodied intelligence，覆盖 sensing、learning、planning、control、perception 和 manipulation
+    - **Systems, Theory, Control and Autonomy**：feedback systems、inference/control over networks、decision-making under uncertainty 与 autonomous systems
+  - **方向选择边界**：三类 Graduate Research Areas 用于组织 doctoral program 和 advisor/course planning；多个 communities 会重复出现，申请者应按研究问题和潜在 faculty fit 选择主方向，而不是把官网交叉标签理解为互斥专业
 - **相关实验室/研究中心**：
   - **名称**：MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
     - **研究方向**：AI、machine learning、robotics、systems、theory、HCI、visual computing、computing and society 等
@@ -71,6 +98,12 @@
     - **招生关系**：LIDS 不是独立的 EECS 学位招生项目；研究生需通过 EECS 或其他相关 academic program 入学并与研究人员建立指导关系
     - **主页链接**：https://lids.mit.edu/
     - **校内文件**：[_labs/MIT_Laboratory_for_Information_and_Decision_Systems.md](_labs/MIT_Laboratory_for_Information_and_Decision_Systems.md)
+  - **名称**：MIT Microsystems Technology Laboratories (MTL)
+    - **研究方向**：integrated circuits and systems、electronic and photonic devices、MEMS/bio-MEMS、molecular devices、nanotechnology、sensors、actuators、AI hardware，以及相关 materials、fabrication、architectures 和 algorithms
+    - **负责人**：Tomás Palacios（Director）；Ruonan Han 与 Bilge Yildiz 为 Associate Directors
+    - **招生关系**：MIT EECS Graduate Research 将 MTL 列为四个主要实验室之一，但 MTL 不提供独立 EECS 学位申请入口；申请者仍需通过 EECS 或其他相关 academic program 入学并核实导师资格
+    - **主页链接**：https://www.mtl.mit.edu/
+    - **校内文件**：[_labs/MIT_Microsystems_Technology_Laboratories.md](_labs/MIT_Microsystems_Technology_Laboratories.md)
   - **名称**：MIT Research Laboratory of Electronics (RLE)
     - **研究方向**：atomic physics、information science and systems、quantum computation and communication、energy/power/electromagnetics、photonics、nanoscale devices、biomedical science and engineering
     - **负责人**：Marc Baldo（Director）；RLE 汇集多个 MIT 院系的 principal investigators
@@ -84,6 +117,12 @@
 - **先修课程要求**：FAQ 未列统一的指定课程清单；申请者通过 Record of Subjects、成绩单、研究经历、推荐信和两篇 essays 展示与目标研究方向相匹配的技术基础
 - **工作经验要求**：EECS 博士申请未列硬性工作年限；LGO 是单独项目，相关工作经验和 GRE 要求不得套用到普通 EECS PhD
 - **往年录取画像**：官方页面未公布可作为门槛使用的平均 GPA、录取率或标准背景画像；未核实的第三方统计不得写成官方事实
+- **官方 faculty 申请建议（非统一评分规则）**：EECS 官网汇总的 faculty perspectives 来自 Fall 2021，只能作为申请写作参考，不能当作新的硬门槛。反复出现的关注点包括：
+  - 用具体研究、独立项目、论文、代码、系统或其他 tangible outcomes 证明研究能力，而不是只写抽象兴趣
+  - 说明自己如何发现和定义问题、作出技术选择、推动项目，以及从结果中形成下一步研究问题
+  - 体现与若干 faculty/research communities 的真实契合度，同时保留合理的研究宽度；申请中提出的未来方向并不构成入学后的研究承诺
+  - 优先选择真正了解申请者独立性、创造力与研究贡献的推荐人；character reference 或只有泛泛赞美的推荐信帮助有限
+  - statement 应清晰、成熟、真实，体现 technical depth、intellectual curiosity、motivation、initiative 与 communication ability
 
 ## ✅ 信息核实
 
@@ -92,8 +131,11 @@
 - **官方 Graduate Admissions FAQs**：https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/
 - **官方 Degree Programs**：https://www.eecs.mit.edu/academics/graduate-programs/degree-programs/
 - **官方 Graduate Program Requirements**：https://www.eecs.mit.edu/academics/graduate-programs/graduate-program-requirements/
+- **官方 Graduate Research Areas 与主要实验室**：https://www.eecs.mit.edu/academics/graduate-programs/graduate-research/
 - **官方 Road to the PhD**：https://www.eecs.mit.edu/academics/graduate-programs/materials-and-forms-for-graduate-students/phd-academic-progress-i/
+- **官方 Spring 2026 TQE Grid**：https://www.eecs.mit.edu/wp-content/uploads/2026/01/TQE-Grid-effective-spring-2026.pdf
 - **官方 EECS Graduate Funding**：https://www.eecs.mit.edu/academics/graduate-programs/funding/
+- **官方 Faculty Statement of Objectives Perspectives**：https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/
 - **官方 MIT OGE 项目与日期目录**：https://oge.mit.edu/graduate-admissions/programs/fields-of-study/
 - **官方 MIT OGE Standardized Tests**：https://oge.mit.edu/graduate-admissions/applications/standardized-tests/
 - **官方 MIT SFS Graduate Cost of Attendance**：https://sfs.mit.edu/graduate-students/cost-of-attendance/grad-cost-of-attendance/
@@ -104,5 +146,6 @@
 - **官方 EECS AI + Decision-making research 页面**：https://www.eecs.mit.edu/research/artificial-intelligence-decision-making/
 - **官方 CSAIL 页面**：https://www.csail.mit.edu/
 - **官方 LIDS 页面**：https://lids.mit.edu/
+- **官方 MTL 页面**：https://www.mtl.mit.edu/
 - **官方 RLE 页面**：https://www.rle.mit.edu/
-- **最后核实日期**：2026-07-27
+- **最后核实日期**：2026-07-29
