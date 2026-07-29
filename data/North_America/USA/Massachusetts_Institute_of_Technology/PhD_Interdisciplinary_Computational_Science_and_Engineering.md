@@ -2,12 +2,12 @@
 
 # Massachusetts Institute of Technology - Interdisciplinary PhD in Computational Science and Engineering
 
-> **核实口径**：截至 2026-07-29，本页记录 MIT Center for Computational Science and Engineering (CCSE) 与参与院系联合管理的 Dept-CSE PhD。申请者在 CSE application 中选择一个 home department，最多可注明两个意向院系；它与 standalone CSE PhD 是两个不同且同一申请季不可同时选择的项目。本页不把各院系名称写成彼此独立的招生入口，也不把 CSE 写成传统 Computer Science 项目。
+> **核实口径**：截至 2026-07-29，本页记录 MIT Center for Computational Science and Engineering (CCSE) 与参与院系联合管理的 Dept-CSE PhD。申请者在 CSE application 中选择 Dept-CSE，并可注明最多两个意向 home departments；它与 standalone CSE PhD 是两个不同且同一申请季不可同时选择的项目。本页不把各院系名称写成彼此独立的招生入口，也不把 CSE 写成传统 Computer Science 项目。
 
 ## 🧭 基础信息
 
 - **院系**：Center for Computational Science and Engineering (CCSE) 与 Aeronautics and Astronautics、Chemical Engineering、Civil and Environmental Engineering、Earth, Atmospheric and Planetary Sciences、Materials Science and Engineering、Mathematics、Mechanical Engineering、Nuclear Science and Engineering 八个参与院系
-- **学位类型**：跨学科研究型博士；学位名称由 home department 与 computation/CSE 组合，包括 Aerospace Engineering and Computational Science、Chemical Engineering and Computation、Civil Engineering and Computation、Environmental Engineering and Computation、Computational Materials Science and Engineering、Mechanical Engineering and Computation、Computational Earth, Atmospheric and Planetary Sciences、Mathematics and Computational Science、Nuclear Engineering and Computation、Computational Nuclear Science and Engineering
+- **学位类型**：跨学科研究型博士；学位名称由 home department 与 computation/CSE 组合，包括 Aerospace Engineering and Computational Science、Chemical Engineering and Computation、Civil Engineering and Computation、Environmental Engineering and Computation、Computational Materials Science and Engineering、Mechanical Engineering and Computation、Mathematics and Computational Science、Nuclear Engineering and Computation、Computational Nuclear Science and Engineering。EAPS 学位名称在官方页面之间存在不一致：CCSE 与 MIT OGE 当前写作 “Computational Earth, Atmospheric and Planetary Sciences”，MIT 2026–2027 Course Catalog 当前写作 “Computational Earth, Science and Planetary Sciences”；申请者应以当期申请系统、录取文件和院系确认为准
 - **学制**：官网未公布统一完成年限。学生同时完成 home department 的博士培养与资格要求，以及 CSE 课程和跨学科研究要求；具体里程碑因院系而异
 - **申请截止日期**：September 2027 入学申请于 2026-09-15 开放，2026-12-01 11:59 PM Eastern Time 截止；成绩单、考试成绩和推荐信等补充材料也须在截止日前收到
 
@@ -58,7 +58,7 @@
   - **AeroAstro**：Aerospace Engineering and Computational Science
   - **Chemical Engineering**：Chemical Engineering and Computation
   - **Civil and Environmental Engineering**：Civil Engineering and Computation；Environmental Engineering and Computation
-  - **Earth, Atmospheric and Planetary Sciences**：Computational Earth, Atmospheric and Planetary Sciences
+  - **Earth, Atmospheric and Planetary Sciences**：CCSE 与 MIT OGE 当前写作 Computational Earth, Atmospheric and Planetary Sciences；MIT 2026–2027 Course Catalog 写作 Computational Earth, Science and Planetary Sciences，官方页面存在不一致
   - **Materials Science and Engineering**：Computational Materials Science and Engineering
   - **Mathematics**：Mathematics and Computational Science
   - **Mechanical Engineering**：Mechanical Engineering and Computation

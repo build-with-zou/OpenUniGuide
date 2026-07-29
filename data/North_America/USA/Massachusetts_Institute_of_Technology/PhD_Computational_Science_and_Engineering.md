@@ -85,7 +85,7 @@
 - **官方 Programs & Admissions**：https://cse.mit.edu/programs-admissions/
 - **官方 Admissions Information**：https://cse.mit.edu/programs-admissions/apply/
 - **官方 Admissions FAQs**：https://cse.mit.edu/programs-admissions/apply/admissions-faqs/
-- **官方 CSE PhD Program Guide (2025-09-02)**：https://cse.mit.edu/app/uploads/2025/09/CSE-PhD-Program-Guide_02Sep25.pdf
+- **官方 CSE PhD Program Guide (2026-01-12)**：https://cse.mit.edu/app/uploads/2026/02/CSE-PhD-Grad-Guide_12Jan2026.pdf
 - **官方 MIT Course Catalog - CSE**：https://catalog.mit.edu/interdisciplinary/graduate-programs/computational-science-engineering/
 - **官方 MIT OGE CSE 项目目录**：https://oge.mit.edu/programs/computational-science-and-engineering-phd/
 - **官方 CCSE Research**：https://cse.mit.edu/research/
