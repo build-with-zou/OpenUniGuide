@@ -50,8 +50,8 @@
 - **项目定位**：MIT EECS 博士项目覆盖 Electrical Engineering、Computer Science、Artificial Intelligence + Decision-making 三个相互交叉的主要研究领域，以原创研究、技术广度与深度、研究沟通、教学和博士论文为核心
 - **核心培养要求**：
   - **要求 1：Technical Qualification Evaluation (TQE)**：提交由 4 门课程构成的计划，覆盖 3 个不同 groups（其中一个 group 选 2 门、另两个 groups 各选 1 门）；成绩要求至少 3 个 A 和 1 个 B，建议第 2 学期开始申请并在 5 个学期内完成
-    - **当前 9 个 TQE groups**：Systems in CS、Theoretical Computer Science、Artificial Intelligence、System Science and Control Engineering、Circuits and Electronic Systems、Information Science and Communication、Biological Engineering、Electromagnetics、Physical Science and Engineering
-    - **选课边界**：EECS graduate students 可从全部 9 个 groups 中选课，不被入学时的 Graduate Research Area 锁定；但只能使用当期 EECS-wide TQE grid 中的课程，不能自行替换。grid 和开课情况每学期可能调整，应使用届时最新版本
+    - **Fall 2026 官方 TQE grid 的 9 个 groups**：Systems in CS、Theoretical Computer Science、Artificial Intelligence、System Science and Control Engineering、Circuits and Electronic Systems、Information Science and Communication、Biological Engineering、Electromagnetics、Physical Science and Engineering
+    - **选课边界**：当前官方 TQE Conditions 明确说明 EECS graduate students 可从全部 9 个 groups 中选课，因此不被入学时的 Graduate Research Area 锁定；但只能使用当期 EECS-wide TQE grid 中的课程，不能自行替换。官方说明 grid 会在每个 fall 和 spring term 调整，课程开设情况也可能变化，应使用届时最新版本
   - **要求 2：SM milestone**：SM proposal 与 TQE 并行推进；SM technical thesis 建议在第 4 学期末完成。该 SM 是 EECS 博士培养的一部分，不是对外独立申请的 terminal master's
   - **要求 3：Research Qualifying Examination (RQE)**：在 TQE 后进行，建议第 5 学期申请，用于评估独立开展研究并以书面和口头形式沟通成果的能力
   - **要求 4：PhD proposal and committee**：建议第 8 学期末完成博士论文提案并组建 thesis committee；之后按要求召开 committee meetings，最终完成论文和答辩
@@ -133,7 +133,8 @@
 - **官方 Graduate Program Requirements**：https://www.eecs.mit.edu/academics/graduate-programs/graduate-program-requirements/
 - **官方 Graduate Research Areas 与主要实验室**：https://www.eecs.mit.edu/academics/graduate-programs/graduate-research/
 - **官方 Road to the PhD**：https://www.eecs.mit.edu/academics/graduate-programs/materials-and-forms-for-graduate-students/phd-academic-progress-i/
-- **官方 Spring 2026 TQE Grid**：https://www.eecs.mit.edu/wp-content/uploads/2026/01/TQE-Grid-effective-spring-2026.pdf
+- **官方 Fall 2026 TQE Grid**：https://www.eecs.mit.edu/wp-content/uploads/2026/07/TQE-Grid-effective-fall-2026.pdf
+- **官方 TQE Conditions**：https://www.eecs.mit.edu/wp-content/uploads/2025/06/TQE-Conditions-5.22.25.pdf
 - **官方 EECS Graduate Funding**：https://www.eecs.mit.edu/academics/graduate-programs/funding/
 - **官方 Faculty Statement of Objectives Perspectives**：https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/
 - **官方 MIT OGE 项目与日期目录**：https://oge.mit.edu/graduate-admissions/programs/fields-of-study/
