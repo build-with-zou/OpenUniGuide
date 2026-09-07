@@ -20,10 +20,10 @@
 
 ## 核心教授
 
-- **教授 1**： Soh Wee Seng
-- **教授 2**： Abhishek Rai
-- **教授 3**： Sheral Crescent Tissera
-- **教授 4**： Ankit Srivastava
+- **教授 1**： [Soh Wee Seng](../_professors/Soh_Wee_Seng.md)
+- **教授 2**： [Abhishek Rai](../_professors/Abhishek_Rai.md)
+- **教授 3**： [Sheral Crescent Tissera](../_professors/Sheral_Crescent_Tissera.md)
+- **教授 4**： [Ankit Srivastava](../_professors/Ankit_Srivastava.md)
 - **备注**： PI 和项目列表以 STAR 官方页面为准
 
 ## 相关项目

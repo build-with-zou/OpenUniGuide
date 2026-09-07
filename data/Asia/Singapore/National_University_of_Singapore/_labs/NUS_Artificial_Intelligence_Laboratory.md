@@ -22,9 +22,9 @@
 
 ## 核心教授
 
-- **教授 1**： Leong Tze Yun
-- **教授 2**： Lee Wee Sun
-- **教授 3**： Reza Shokri
+- **教授 1**： [Leong Tze Yun](../_professors/Leong_Tze_Yun.md)
+- **教授 2**： [Lee Wee Sun](../_professors/Lee_Wee_Sun.md)
+- **教授 3**： [Reza Shokri](../_professors/Reza_Shokri.md)
 - **备注**： 更多 faculty 请以实验室 People 页面为准
 
 ## 相关项目

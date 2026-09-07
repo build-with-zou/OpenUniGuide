@@ -21,9 +21,9 @@
 
 ## 核心教授
 
-- **教授 1**： Dipti Srinivasan（Center Director）
-- **教授 2**： Sanji Kumar Panda（Area Director - Power and Energy Systems）
-- **教授 3**： Ashwin M Khambadkone
+- **教授 1**： [Dipti Srinivasan](../_professors/Dipti_Srinivasan.md)（Center Director）
+- **教授 2**： [Sanji Kumar Panda](../_professors/Sanji_Kumar_Panda.md)（Area Director - Power and Energy Systems）
+- **教授 3**： [Ashwin M Khambadkone](../_professors/Ashwin_M_Khambadkone.md)
 - **备注**： 成员和岗位以中心官方 Academic Staff 列表为准
 
 ## 相关项目

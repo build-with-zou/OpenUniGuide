@@ -20,12 +20,12 @@
 
 ## 核心教授
 
-- **教授 1**： Qiu Cheng Wei
-- **教授 2**： Chen Xudong
-- **教授 3**： Vincent Lee
-- **教授 4**： Aaron Danner
-- **教授 5**： Ho Ghim Wei
-- **教授 6**： Song Jung-Hwan
+- **教授 1**： [Qiu Cheng Wei](../_professors/Qiu_Cheng_Wei.md)
+- **教授 2**： [Chen Xudong](../_professors/Chen_Xudong.md)
+- **教授 3**： [Vincent C. Lee](../_professors/Vincent_C_Lee.md)
+- **教授 4**： [Aaron Danner](../_professors/Aaron_Danner.md)
+- **教授 5**： [Ho Ghim Wei](../_professors/Ho_Ghim_Wei.md)
+- **教授 6**： [Song Jung-Hwan](../_professors/Song_Jung_Hwan.md)
 - **备注**： 成员以 OSEC 官方 Academic Staff/Member 列表为准
 
 ## 相关项目

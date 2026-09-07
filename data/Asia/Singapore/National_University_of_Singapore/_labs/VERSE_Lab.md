@@ -19,7 +19,7 @@
 
 ## 核心教授
 
-- **教授 1**： Ilya Sergey
+- **教授 1**： [Ilya Sergey](../_professors/Ilya_Sergey.md)
 
 ## 相关项目
 

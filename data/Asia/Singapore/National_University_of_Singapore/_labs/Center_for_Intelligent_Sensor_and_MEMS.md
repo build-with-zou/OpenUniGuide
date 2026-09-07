@@ -20,11 +20,11 @@
 
 ## 核心教授
 
-- **教授 1**： Vincent C. Lee
-- **教授 2**： Massimo Alioto
-- **教授 3**： Heng Chun Huat
-- **教授 4**： Vivian Ng
-- **教授 5**： Ang Kah Wee
+- **教授 1**： [Vincent C. Lee](../_professors/Vincent_C_Lee.md)
+- **教授 2**： [Massimo Alioto](../_professors/Massimo_Alioto.md)
+- **教授 3**： [Heng Chun Huat](../_professors/Heng_Chun_Huat.md)
+- **教授 4**： [Vivian Ng](../_professors/Vivian_Ng.md)
+- **教授 5**： [Ang Kah Wee](../_professors/Ang_Kah_Wee.md)
 - **备注**： 更多 PI 请以 CISM 官方 Principal Investigators 列表为准
 
 ## 相关项目

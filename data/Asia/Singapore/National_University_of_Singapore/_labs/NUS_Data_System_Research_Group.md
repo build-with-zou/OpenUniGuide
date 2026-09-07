@@ -18,8 +18,8 @@
 
 ## 核心教授
 
-- **教授 1**： Ooi Beng Chin
-- **教授 2**： Xiao Xiaokui
+- **教授 1**： [Xiao Xiaokui](../_professors/Xiao_Xiaokui.md)
+- **教授 2**： [Ooi Beng Chin](../_professors/Ooi_Beng_Chin.md)（历史档案）
 - **备注**： 更多成员请以研究组 People 页面为准
 
 ## 相关项目
