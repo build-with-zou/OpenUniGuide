@@ -7,12 +7,14 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Ho Ghim Wei
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **职称/身份**： Professor；Vice Provost (Academic Affairs)；Provost’s Chair Professor；Courtesy Joint Appointment with MSE
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/ho-ghim-wei/
 
 ## 研究方向
 
-- **方向 1**： Nanophotonics
-- **方向 2**： Optical diagnostics
+- **方向 1**： Nanomaterials and hybrid functional systems
+- **方向 2**： Low-dimensional-material nanosystems
+- **方向 3**： Sustainable energy, environmental remediation, electronics and healthcare applications
 
 ## 关联位置
 
@@ -22,5 +24,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/ho-ghim-wei/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
 - **最后核实日期**： 2026-09-07

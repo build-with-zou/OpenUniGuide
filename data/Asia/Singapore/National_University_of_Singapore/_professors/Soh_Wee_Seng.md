@@ -7,13 +7,14 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Soh Wee Seng
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/star/
+- **职称/身份**： Associate Professor；Deputy Head (UG Programmes)
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/soh-wee-seng/
 
 ## 研究方向
 
-- **方向 1**： Miniaturized satellites
-- **方向 2**： Satellite communication
-- **方向 3**： Space systems
+- **方向 1**： Wireless networks
+- **方向 2**： Underwater networks
+- **方向 3**： Indoor localization
 
 ## 关联位置
 
@@ -23,5 +24,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/star/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/soh-wee-seng/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/star/
 - **最后核实日期**： 2026-09-07

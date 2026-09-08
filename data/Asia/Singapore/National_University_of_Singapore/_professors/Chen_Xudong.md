@@ -7,13 +7,14 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Chen Xudong
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **职称/身份**： Professor；Area Director (Microwave & RF)
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/chen-xudong/
 
 ## 研究方向
 
-- **方向 1**： Laser nanofabrication
-- **方向 2**： Optical diagnostics
-- **方向 3**： Optical science and engineering
+- **方向 1**： Electromagnetic wave theories and applications
+- **方向 2**： Inverse problems and computational imaging
+- **方向 3**： Inverse scattering, sensing/data fusion, microscopy and optical encryption
 
 ## 关联位置
 
@@ -23,5 +24,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/chen-xudong/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
 - **最后核实日期**： 2026-09-07

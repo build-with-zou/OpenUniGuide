@@ -4,7 +4,7 @@
 
 本目录用于存放 National University of Singapore 跨专业共享的重点实验室、研究中心和研究组介绍。
 
-教授档案位于同级 `_professors/` 目录，用于复用实验室和项目中反复出现的姓名。
+学术人员档案位于同级 `_professors/` 目录，用于复用实验室和项目中反复出现的姓名；其中历史档案会明确标注，不代表当前任职。
 
 ## 文件命名
 
@@ -26,16 +26,16 @@ Lab_Name.md
 
 ## 专业文件引用方式
 
-同一学校目录下的专业文件可以使用相对路径引用实验室文件。下面示例按本文件所在位置书写：
+同一学校目录下的专业文件可以使用相对路径引用实验室文件。专业文件位于本目录的上一级；在专业文件中写成 `_labs/...`，本 README 中的可点击示例对应写成 `../_labs/...`：
 
 ```markdown
 - **相关实验室**： [Center for Intelligent Sensor and MEMS](../_labs/Center_for_Intelligent_Sensor_and_MEMS.md)
 ```
 
-教授档案同样可以用相对路径引用：
+从本目录中的实验室文件引用同级 `_professors/` 档案时，使用以下路径：
 
 ```markdown
-- **核心教授**： [Leong Tze Yun](../_professors/Leong_Tze_Yun.md)
+- **核心学术人员**： [Leong Tze Yun](../_professors/Leong_Tze_Yun.md)
 ```
 
 ## 建议字段
@@ -45,8 +45,8 @@ Lab_Name.md
 - **实验室名称**：
 - **所属院系**：
 - **研究方向**：
-- **核心教授**：
+- **核心学术人员**：
 - **主页链接**：
 - **相关项目**：
-- **相关教授**：
+- **相关学术人员**：
 - **最后核实日期**： YYYY-MM-DD

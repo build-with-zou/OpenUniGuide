@@ -7,8 +7,9 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： School of Computing
 - **姓名**： Ooi Beng Chin
-- **状态**： 历史档案；NUS 官方追思页面可核实其去世，当前不再按现任核心教授处理
-- **主页链接**： https://www.comp.nus.edu.sg/~dbsystem/
+- **状态**： 历史档案（1961–2026）；NUS 官方追思页面可核实其去世，当前不再按现任 NUS 教授处理
+- **历史身份**： DB System 官方 People 页面列为 Zhejiang University Qiushi Chair Professor、NUS Distinguished Visiting Professor 等
+- **主页链接**： https://www.comp.nus.edu.sg/~dbsystem/people/
 
 ## 研究方向
 
@@ -24,6 +25,7 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://www.comp.nus.edu.sg/~dbsystem/
+- **官方主页链接**： https://www.comp.nus.edu.sg/~dbsystem/people/
+- **研究组主页**： https://www.comp.nus.edu.sg/~dbsystem/
 - **官方追思页面**： https://in-remembrance.comp.nus.edu.sg/ooibengchin/
 - **最后核实日期**： 2026-09-07

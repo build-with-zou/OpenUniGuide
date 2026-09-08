@@ -7,12 +7,13 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Ankit Srivastava
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/star/
+- **职称/身份**： Assistant Professor；Program Director, Satellite Technology and Research Centre (STAR@NUS)
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/srivastava-ankit/
 
 ## 研究方向
 
-- **方向 1**： Satellite systems
-- **方向 2**： Mission control
+- **方向 1**： Embedded software for small satellites
+- **方向 2**： Distributed computing and embedded systems in space technology
 
 ## 关联位置
 
@@ -22,5 +23,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/star/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/srivastava-ankit/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/star/
 - **最后核实日期**： 2026-09-07

@@ -7,13 +7,13 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Qiu Cheng Wei
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **职称/身份**： Professor；Provost’s Chair Professor
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/qiu-cheng-wei/
 
 ## 研究方向
 
-- **方向 1**： Optical science and engineering
-- **方向 2**： Laser nanofabrication
-- **方向 3**： Nanophotonics
+- **方向 1**： Structured light
+- **方向 2**： Metasurfaces
 
 ## 关联位置
 
@@ -23,5 +23,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/qiu-cheng-wei/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
 - **最后核实日期**： 2026-09-07

@@ -7,13 +7,16 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Ashwin M Khambadkone
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
+- **职称/身份**： Associate Professor
+- **主页链接**： https://nusgs.nus.edu.sg/thesis-advisors/eleamk
 
 ## 研究方向
 
-- **方向 1**： Power electronics
-- **方向 2**： Energy systems
-- **方向 3**： Smart grid
+- **方向 1**： MVDC grids
+- **方向 2**： Control of grid converters
+- **方向 3**： Integration of renewable energy systems
+- **方向 4**： Microgrids and energy storage systems
+- **方向 5**： High-power electronics
 
 ## 关联位置
 
@@ -23,5 +26,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
+- **官方主页链接**： https://nusgs.nus.edu.sg/thesis-advisors/eleamk
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
 - **最后核实日期**： 2026-09-07

@@ -7,13 +7,13 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Ang Kah Wee
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/cism/
+- **职称/身份**： Professor；CDE Academic Staff 目录列为 Professor，但个人简介正文仍写 “currently an Assistant Professor”，官方页面存在职称冲突，当前职称待核实
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/ang-kah-wee/
 
 ## 研究方向
 
-- **方向 1**： Flexible electronics
-- **方向 2**： Stretchable electronics
-- **方向 3**： 2D materials
+- **方向 1**： Nano-electronics technologies
+- **方向 2**： Nano-photonics technologies
 
 ## 关联位置
 
@@ -23,5 +23,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/cism/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/ang-kah-wee/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/cism/
 - **最后核实日期**： 2026-09-07

@@ -7,13 +7,14 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： School of Computing
 - **姓名**： Lee Wee Sun
-- **主页链接**： https://nusail.comp.nus.edu.sg/people/index.html
+- **职称/身份**： Professor, Department of Computer Science
+- **主页链接**： https://www.comp.nus.edu.sg/cs/people/leews/
 
 ## 研究方向
 
-- **方向 1**： Artificial intelligence
-- **方向 2**： Machine learning
-- **方向 3**： Data science
+- **方向 1**： Machine learning
+- **方向 2**： Planning under uncertainty
+- **方向 3**： Approximate inference
 
 ## 关联位置
 
@@ -23,5 +24,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://nusail.comp.nus.edu.sg/people/index.html
+- **官方主页链接**： https://www.comp.nus.edu.sg/cs/people/leews/
+- **官方实验室页面**： https://nusail.comp.nus.edu.sg/people/index.html
 - **最后核实日期**： 2026-09-07

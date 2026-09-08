@@ -7,6 +7,7 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： School of Computing
 - **姓名**： Ilya Sergey
+- **职称/身份**： Tenured Associate Professor；VERSE Lab Lead
 - **主页链接**： https://ilyasergey.net/
 
 ## 研究方向
@@ -16,6 +17,8 @@
 - **方向 3**： Distributed systems
 - **方向 4**： Program synthesis
 - **方向 5**： Verified systems engineering
+
+- **招生状态**： 个人主页公告称 2026/27 学年不招 PhD、postdoc 或 research intern；这不代表 NUS 项目整体招生政策。
 
 ## 关联位置
 

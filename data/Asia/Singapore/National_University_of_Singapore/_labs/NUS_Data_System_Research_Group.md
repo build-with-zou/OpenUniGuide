@@ -16,10 +16,10 @@
 - **方向 3**： Machine learning
 - **方向 4**： Large scale analytics
 
-## 核心教授
+## 核心学术人员
 
-- **教授 1**： [Xiao Xiaokui](../_professors/Xiao_Xiaokui.md)
-- **教授 2**： [Ooi Beng Chin](../_professors/Ooi_Beng_Chin.md)（历史档案）
+- **学术人员 1**： [Xiao Xiaokui](../_professors/Xiao_Xiaokui.md)
+- **学术人员 2**： [Ooi Beng Chin](../_professors/Ooi_Beng_Chin.md)（历史档案）
 - **备注**： 更多成员请以研究组 People 页面为准
 
 ## 相关项目

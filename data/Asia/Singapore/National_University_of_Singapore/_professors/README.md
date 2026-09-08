@@ -1,13 +1,16 @@
 <!-- 文件路径：data/Asia/Singapore/National_University_of_Singapore/_professors/README.md -->
 
-# National University of Singapore - Professors
+# National University of Singapore - Academic Profiles
 
-本目录用于存放 National University of Singapore 已在本仓库现有项目页和实验室页中出现过的教授档案，作为可复用的学校级实体。
+本目录用于存放 National University of Singapore 已在本仓库现有项目页和实验室页中出现过的教授、学术人员及历史档案，作为可复用的学校级实体。目录名 `_professors/` 沿用仓库既有命名；档案中的职称和当前身份以链接的官方页面为准。
 
 ## 使用原则
 
-- 每位教授单独一个文件。
+- 每位学术人员或历史档案单独一个文件。
 - 先写官网可核实的身份、院系、研究方向和主页链接。
+- 研究组成员、中心成员、PI 与 faculty 不是同义词；只有官方页面明确支持时才使用相应称谓。
+- 官方页面存在职称冲突时，保留冲突并写明“待核实”，不要自行选择一个版本。
+- 历史档案必须明确写出历史状态，不得暗示当前招生、导师资格或任职。
 - 实验室页和项目页只保留简短关系说明，不重复展开完整履历。
 - 招生资格、当年是否收学生、是否可做导师，必须单独核实，不能仅凭实验室归属推断。
 
@@ -33,7 +36,7 @@ Given_Name_Family_Name.md
 - `Vivian_Ng.md`
 - `Ang_Kah_Wee.md`
 - `Dipti_Srinivasan.md`
-- `Sanji_Kumar_Panda.md`
+- `Sanjib_Kumar_Panda.md`
 - `Ashwin_M_Khambadkone.md`
 - `Qiu_Cheng_Wei.md`
 - `Chen_Xudong.md`

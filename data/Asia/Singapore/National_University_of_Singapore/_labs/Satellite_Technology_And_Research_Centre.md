@@ -18,12 +18,12 @@
 - **方向 5**： Maritime VDES payloads and space-based communication
 - **方向 6**： Space environmental testing and mission control facilities
 
-## 核心教授
+## 核心学术人员
 
-- **教授 1**： [Soh Wee Seng](../_professors/Soh_Wee_Seng.md)
-- **教授 2**： [Abhishek Rai](../_professors/Abhishek_Rai.md)
-- **教授 3**： [Sheral Crescent Tissera](../_professors/Sheral_Crescent_Tissera.md)
-- **教授 4**： [Ankit Srivastava](../_professors/Ankit_Srivastava.md)
+- **学术人员 1**： [Soh Wee Seng](../_professors/Soh_Wee_Seng.md)
+- **学术人员 2**： [Abhishek Rai](../_professors/Abhishek_Rai.md)
+- **学术人员 3**： [Sheral Crescent Tissera](../_professors/Sheral_Crescent_Tissera.md)
+- **学术人员 4**： [Ankit Srivastava](../_professors/Ankit_Srivastava.md)
 - **备注**： PI 和项目列表以 STAR 官方页面为准
 
 ## 相关项目

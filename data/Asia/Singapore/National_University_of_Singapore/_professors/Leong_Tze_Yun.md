@@ -7,13 +7,15 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： School of Computing
 - **姓名**： Leong Tze Yun
-- **主页链接**： https://nusail.comp.nus.edu.sg/people/index.html
+- **职称/身份**： Professor (Practice Track), Department of Computer Science
+- **主页链接**： https://www.comp.nus.edu.sg/cs/people/leongty/
 
 ## 研究方向
 
-- **方向 1**： Artificial intelligence
-- **方向 2**： Machine learning
-- **方向 3**： Data science
+- **方向 1**： Responsible and general artificial intelligence
+- **方向 2**： Cooperative artificial intelligence and interactive reinforcement learning
+- **方向 3**： Neurocognitive modelling and causal reasoning
+- **方向 4**： Biomedical and health informatics
 
 ## 关联位置
 
@@ -23,5 +25,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://nusail.comp.nus.edu.sg/people/index.html
+- **官方主页链接**： https://www.comp.nus.edu.sg/cs/people/leongty/
+- **官方实验室页面**： https://nusail.comp.nus.edu.sg/people/index.html
 - **最后核实日期**： 2026-09-07

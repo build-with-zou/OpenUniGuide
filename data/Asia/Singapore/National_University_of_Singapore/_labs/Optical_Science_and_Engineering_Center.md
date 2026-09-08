@@ -18,14 +18,14 @@
 - **方向 5**： Optical diagnostics
 - **方向 6**： Technology commercialization and student training in optical fields
 
-## 核心教授
+## 核心学术人员
 
-- **教授 1**： [Qiu Cheng Wei](../_professors/Qiu_Cheng_Wei.md)
-- **教授 2**： [Chen Xudong](../_professors/Chen_Xudong.md)
-- **教授 3**： [Vincent C. Lee](../_professors/Vincent_C_Lee.md)
-- **教授 4**： [Aaron Danner](../_professors/Aaron_Danner.md)
-- **教授 5**： [Ho Ghim Wei](../_professors/Ho_Ghim_Wei.md)
-- **教授 6**： [Song Jung-Hwan](../_professors/Song_Jung_Hwan.md)
+- **学术人员 1**： [Qiu Cheng Wei](../_professors/Qiu_Cheng_Wei.md)
+- **学术人员 2**： [Chen Xudong](../_professors/Chen_Xudong.md)
+- **学术人员 3**： [Vincent C. Lee](../_professors/Vincent_C_Lee.md)
+- **学术人员 4**： [Aaron Danner](../_professors/Aaron_Danner.md)
+- **学术人员 5**： [Ho Ghim Wei](../_professors/Ho_Ghim_Wei.md)
+- **学术人员 6**： [Song Jung-Hwan](../_professors/Song_Jung_Hwan.md)
 - **备注**： 成员以 OSEC 官方 Academic Staff/Member 列表为准
 
 ## 相关项目

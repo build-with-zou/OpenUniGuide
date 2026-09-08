@@ -20,11 +20,11 @@
 - **方向 7**： Interactive AI
 - **方向 8**： Trustworthy AI
 
-## 核心教授
+## 核心学术人员
 
-- **教授 1**： [Leong Tze Yun](../_professors/Leong_Tze_Yun.md)
-- **教授 2**： [Lee Wee Sun](../_professors/Lee_Wee_Sun.md)
-- **教授 3**： [Reza Shokri](../_professors/Reza_Shokri.md)
+- **学术人员 1**： [Leong Tze Yun](../_professors/Leong_Tze_Yun.md)
+- **学术人员 2**： [Lee Wee Sun](../_professors/Lee_Wee_Sun.md)
+- **学术人员 3**： [Reza Shokri](../_professors/Reza_Shokri.md)
 - **备注**： 更多 faculty 请以实验室 People 页面为准
 
 ## 相关项目

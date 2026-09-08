@@ -7,13 +7,14 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： School of Computing
 - **姓名**： Xiao Xiaokui
-- **主页链接**： https://www.comp.nus.edu.sg/~dbsystem/
+- **职称/身份**： Professor；Deputy Head (Research and Graduate Matters), Department of Computer Science
+- **主页链接**： https://www.comp.nus.edu.sg/~xiaoxk/
 
 ## 研究方向
 
-- **方向 1**： Database systems
-- **方向 2**： Data management
-- **方向 3**： Data-intensive computing
+- **方向 1**： Privacy-preserving data management
+- **方向 2**： Differential privacy and privacy in large language models
+- **方向 3**： Algorithms and systems for large data analysis
 
 ## 关联位置
 
@@ -23,6 +24,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://www.comp.nus.edu.sg/~dbsystem/
+- **官方主页链接**： https://www.comp.nus.edu.sg/~xiaoxk/
 - **官方 People 页面**： https://www.comp.nus.edu.sg/~dbsystem/people/
 - **最后核实日期**： 2026-09-07

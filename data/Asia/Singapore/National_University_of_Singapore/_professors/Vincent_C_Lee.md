@@ -8,13 +8,14 @@
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Chengkuo (Vincent) Lee
 - **常用姓名**： Vincent C. Lee；Vincent Lee
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/cism/
+- **职称/身份**： Associate Professor；OSEC 页面成员列表仍标为 Professor，官方页面存在职称口径差异
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/lee-chengkuo-vincent/
 
 ## 研究方向
 
-- **方向 1**： Intelligent sensors
-- **方向 2**： MEMS/NEMS
-- **方向 3**： Micro/nanotechnology
+- **方向 1**： MEMS and NEMS
+- **方向 2**： Nanophotonics and nanotechnology
+- **方向 3**： Micro/nanotechnology for sensors and optical devices
 
 ## 关联位置
 
@@ -25,6 +26,7 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/cism/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/lee-chengkuo-vincent/
+- **官方 CISM 页面**： https://cde.nus.edu.sg/ece/research/research-centers/cism/
 - **官方 OSEC 页面**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
 - **最后核实日期**： 2026-09-07

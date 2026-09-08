@@ -7,12 +7,14 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Song Jung-Hwan
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **职称/身份**： Assistant Professor
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/song-jung-hwan/
 
 ## 研究方向
 
-- **方向 1**： Laser precision engineering
-- **方向 2**： Optical diagnostics
+- **方向 1**： Light–matter interactions using photonic crystals, plasmonics and Mie nanoresonators
+- **方向 2**： Nonlocal metasurfaces and dynamic optical nanoresonators
+- **方向 3**： Optical devices and systems based on emerging materials, including 2D materials
 
 ## 关联位置
 
@@ -22,5 +24,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/song-jung-hwan/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
 - **最后核实日期**： 2026-09-07

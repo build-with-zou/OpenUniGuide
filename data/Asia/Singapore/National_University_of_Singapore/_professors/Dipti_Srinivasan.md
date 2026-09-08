@@ -7,13 +7,15 @@
 - **所属学校**： National University of Singapore
 - **所属院系**： Department of Electrical and Computer Engineering
 - **姓名**： Dipti Srinivasan
-- **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
+- **职称/身份**： Professor；Head/Center Director, Green Energy Management and Smart Grid (GEMS)
+- **主页链接**： https://cde.nus.edu.sg/ece/staff/dipti-srinivasan/
 
 ## 研究方向
 
-- **方向 1**： Smart grid
-- **方向 2**： Energy management
-- **方向 3**： Power systems
+- **方向 1**： Optimization and control
+- **方向 2**： Wind and solar power prediction
+- **方向 3**： Electricity price prediction
+- **方向 4**： Deep learning and multi-agent systems for power-system operation and control
 
 ## 关联位置
 
@@ -23,5 +25,6 @@
 
 ## 信息核实
 
-- **官方主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
+- **官方主页链接**： https://cde.nus.edu.sg/ece/staff/dipti-srinivasan/
+- **官方中心页面**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
 - **最后核实日期**： 2026-09-07
