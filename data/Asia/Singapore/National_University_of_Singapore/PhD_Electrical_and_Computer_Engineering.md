@@ -61,22 +61,22 @@
 - **相关实验室**：
   - **实验室名称**： Center for Intelligent Sensor and MEMS
     - **研究方向**： intelligent sensors、MEMS/NEMS、micro/nanotechnology、low-power IC、energy harvesters、healthcare technology
-    - **核心教授**： Vincent C. Lee、Massimo Alioto、Heng Chun Huat、Vivian Ng 等；以中心页面 PI 列表为准
+    - **核心学术人员**： [Vincent C. Lee](_professors/Vincent_C_Lee.md)、[Massimo Alioto](_professors/Massimo_Alioto.md)、[Heng Chun Huat](_professors/Heng_Chun_Huat.md)、[Vivian Ng](_professors/Vivian_Ng.md)、[Ang Kah Wee](_professors/Ang_Kah_Wee.md)
     - **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/cism/
     - **校内实验室文件**： [_labs/Center_for_Intelligent_Sensor_and_MEMS.md](_labs/Center_for_Intelligent_Sensor_and_MEMS.md)
   - **实验室名称**： Green Energy Management and Smart Grid Research Center
     - **研究方向**： smart grid、energy management、power electronics、renewable energy integration、power quality and protection
-    - **核心教授**： Dipti Srinivasan、Sanji Kumar Panda、Ashwin M Khambadkone；以中心页面 Academic Staff 为准
+    - **核心学术人员**： [Dipti Srinivasan](_professors/Dipti_Srinivasan.md)、[Sanjib Kumar Panda](_professors/Sanjib_Kumar_Panda.md)、[Ashwin M Khambadkone](_professors/Ashwin_M_Khambadkone.md)
     - **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/gems/
     - **校内实验室文件**： [_labs/Green_Energy_Management_and_Smart_Grid_Research_Center.md](_labs/Green_Energy_Management_and_Smart_Grid_Research_Center.md)
   - **实验室名称**： Optical Science and Engineering Center
     - **研究方向**： optical science and engineering、laser nanofabrication、nanophotonics、optical diagnostics
-    - **核心教授**： Qiu Cheng Wei、Chen Xudong、Vincent Lee、Aaron Danner、Ho Ghim Wei、Song Jung-Hwan；以中心页面为准
+    - **核心学术人员**： [Qiu Cheng Wei](_professors/Qiu_Cheng_Wei.md)、[Chen Xudong](_professors/Chen_Xudong.md)、[Vincent C. Lee](_professors/Vincent_C_Lee.md)、[Aaron Danner](_professors/Aaron_Danner.md)、[Ho Ghim Wei](_professors/Ho_Ghim_Wei.md)、[Song Jung-Hwan](_professors/Song_Jung_Hwan.md)
     - **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/osec/
     - **校内实验室文件**： [_labs/Optical_Science_and_Engineering_Center.md](_labs/Optical_Science_and_Engineering_Center.md)
   - **实验室名称**： Satellite Technology And Research Centre
     - **研究方向**： small satellites、formation/constellation flying、inter-satellite communication、satellite navigation and control、space environmental testing
-    - **核心教授**： Soh Wee Seng、Abhishek Rai、Sheral Crescent Tissera、Ankit Srivastava；以中心页面 PI 列表为准
+    - **核心学术人员**： [Soh Wee Seng](_professors/Soh_Wee_Seng.md)、[Abhishek Rai](_professors/Abhishek_Rai.md)、[Sheral Crescent Tissera](_professors/Sheral_Crescent_Tissera.md)、[Ankit Srivastava](_professors/Ankit_Srivastava.md)
     - **主页链接**： https://cde.nus.edu.sg/ece/research/research-centers/star/
     - **校内实验室文件**： [_labs/Satellite_Technology_And_Research_Centre.md](_labs/Satellite_Technology_And_Research_Centre.md)
 

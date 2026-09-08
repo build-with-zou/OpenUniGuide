@@ -18,13 +18,13 @@
 - **方向 5**： Healthcare technology, biomedical sensors and microfluidics
 - **方向 6**： Flexible/stretchable electronics and 2D materials
 
-## 核心教授
+## 核心学术人员
 
-- **教授 1**： Vincent C. Lee
-- **教授 2**： Massimo Alioto
-- **教授 3**： Heng Chun Huat
-- **教授 4**： Vivian Ng
-- **教授 5**： Ang Kah Wee
+- **学术人员 1**： [Vincent C. Lee](../_professors/Vincent_C_Lee.md)
+- **学术人员 2**： [Massimo Alioto](../_professors/Massimo_Alioto.md)
+- **学术人员 3**： [Heng Chun Huat](../_professors/Heng_Chun_Huat.md)
+- **学术人员 4**： [Vivian Ng](../_professors/Vivian_Ng.md)
+- **学术人员 5**： [Ang Kah Wee](../_professors/Ang_Kah_Wee.md)
 - **备注**： 更多 PI 请以 CISM 官方 Principal Investigators 列表为准
 
 ## 相关项目

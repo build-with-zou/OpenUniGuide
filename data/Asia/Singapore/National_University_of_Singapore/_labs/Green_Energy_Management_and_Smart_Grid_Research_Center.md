@@ -19,11 +19,11 @@
 - **方向 6**： Robust protection
 - **方向 7**： Smart metering and monitoring
 
-## 核心教授
+## 核心学术人员
 
-- **教授 1**： Dipti Srinivasan（Center Director）
-- **教授 2**： Sanji Kumar Panda（Area Director - Power and Energy Systems）
-- **教授 3**： Ashwin M Khambadkone
+- **学术人员 1**： [Dipti Srinivasan](../_professors/Dipti_Srinivasan.md)（Center Director）
+- **学术人员 2**： [Sanjib Kumar Panda](../_professors/Sanjib_Kumar_Panda.md)（GEMS 页面仍列 Area Director - Power and Energy Systems；个人页注明该任命至 2025-07-31，当前中心职务待核实）
+- **学术人员 3**： [Ashwin M Khambadkone](../_professors/Ashwin_M_Khambadkone.md)
 - **备注**： 成员和岗位以中心官方 Academic Staff 列表为准
 
 ## 相关项目

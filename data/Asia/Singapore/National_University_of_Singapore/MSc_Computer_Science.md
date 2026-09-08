@@ -58,12 +58,12 @@
 - **相关实验室**： 
   - **实验室名称**： NUS Artificial Intelligence Laboratory
     - **研究方向**： AI、machine learning、data science、computer vision、natural language processing、embodied AI、interactive AI、trustworthy AI
-    - **核心教授**： Leong Tze Yun、Lee Wee Sun 等；以实验室 People 页面为准
+    - **核心学术人员**： [Leong Tze Yun](_professors/Leong_Tze_Yun.md)、[Lee Wee Sun](_professors/Lee_Wee_Sun.md)、[Reza Shokri](_professors/Reza_Shokri.md)
     - **主页链接**： https://nusail.comp.nus.edu.sg/
     - **校内实验室文件**： [_labs/NUS_Artificial_Intelligence_Laboratory.md](_labs/NUS_Artificial_Intelligence_Laboratory.md)
   - **实验室名称**： NUS Data System Research Group
     - **研究方向**： data systems、distributed and blockchain systems、machine learning、large scale analytics
-    - **核心教授**： Ooi Beng Chin、Xiao Xiaokui 等；以实验室 People 页面为准
+    - **核心学术人员**： [Xiao Xiaokui](_professors/Xiao_Xiaokui.md)、[Ooi Beng Chin](_professors/Ooi_Beng_Chin.md)（历史档案）
     - **主页链接**： https://www.comp.nus.edu.sg/~dbsystem/
     - **校内实验室文件**： [_labs/NUS_Data_System_Research_Group.md](_labs/NUS_Data_System_Research_Group.md)
 

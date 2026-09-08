@@ -17,9 +17,9 @@
 - **方向 4**： Program synthesis
 - **方向 5**： Verified systems engineering
 
-## 核心教授
+## 核心学术人员
 
-- **教授 1**： Ilya Sergey
+- **学术人员 1**： [Ilya Sergey](../_professors/Ilya_Sergey.md)
 
 ## 相关项目
 
